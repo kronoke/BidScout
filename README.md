@@ -1,19 +1,20 @@
 # BidScout AI
 
-BidScout is an AI opportunity intelligence MVP that helps small businesses quickly evaluate government procurement opportunities.
+BidScout is an opportunity-intelligence product for small businesses. It helps users discover government contract opportunities and private-market buying signals, then ranks them for relevance and accessibility.
 
-## MVP
+## Current product
 
-- Opportunity feed with 0–100 scoring
-- Source and quality filters
-- Vercel-ready serverless API
+- Government opportunity feed with 0–100 scoring
 - SAM.gov integration via `SAM_API_KEY`
-- Demo fallback data when no API key is configured
+- Private-market signal feed backed by sourced public records
+- Business matcher that re-ranks signals by service and location
+- Vercel-ready serverless deployment
+- Daily refresh workflow for business-opportunity data
 
-## Deploy on Vercel
+## Deployment
 
-1. Import this GitHub repository into Vercel.
+1. Import this repository into Vercel.
 2. Add the environment variable `SAM_API_KEY`.
-3. Deploy.
+3. Deploy the `main` branch.
 
-The app will use live SAM.gov opportunities when the API key is available and fall back to seed data otherwise.
+BidScout presents public-source intelligence for research and prospecting. Users should verify original source information before bidding, contacting a prospect, or making a business decision.
