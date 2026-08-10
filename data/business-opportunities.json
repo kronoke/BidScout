@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-08-10T18:45:00Z",
+  "region": "Greater Lowell, Massachusetts",
+  "items": [
+    {
+      "id": "wonder-chelmsford-2026",
+      "score": 91,
+      "type": "Opening",
+      "title": "Wonder opened a new Chelmsford location",
+      "business": "Wonder",
+      "location": "90 Drum Hill Rd, Chelmsford, MA",
+      "signalDate": "2026-07-23",
+      "description": "Wonder held the grand opening for a new Chelmsford location on July 23, 2026. A newly opened food-service location can create near-term demand for recurring facility and operating vendors.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Security", "Local marketing"],
+      "why": ["New physical location", "Food-service operation", "Recurring facility needs are plausible"],
+      "confidence": "High",
+      "sourceName": "Chelmsford Patch event listing",
+      "sourceUrl": "https://patch.com/massachusetts/chelmsford/calendar/event/20260723/846c34ce-183f-47f1-9843-457e2efda8c6/wonder-grand-opening-in-chelmsford"
+    },
+    {
+      "id": "spectrum-lowell-2026",
+      "score": 88,
+      "type": "Opening",
+      "title": "Spectrum Health Systems opened a new Lowell treatment facility",
+      "business": "Spectrum Health Systems, Inc.",
+      "location": "10 Technology Drive, Lowell, MA",
+      "signalDate": "2026-06-04",
+      "description": "Spectrum Health Systems announced a newly renovated Lowell treatment center with inpatient, stabilization, and outpatient services. The facility operates at meaningful scale and may require ongoing facility-support vendors.",
+      "likelyNeeds": ["Commercial cleaning", "Facility maintenance", "Security", "Waste service", "IT support"],
+      "why": ["Newly renovated facility", "Multi-service healthcare operation", "Ongoing physical-site operations"],
+      "confidence": "High",
+      "sourceName": "Spectrum Health Systems",
+      "sourceUrl": "https://www.spectrumhealthsystems.org/spectrum-health-systems-expands-access-to-care-with-opening-of-new-treatment-facility-in-lowell/"
+    },
+    {
+      "id": "ekos-lowell-2026",
+      "score": 82,
+      "type": "New Business",
+      "title": "Eko's Bar & Grill is one of Lowell's newest restaurants",
+      "business": "Eko's Bar & Grill Restaurant",
+      "location": "525 Market St, Lowell, MA",
+      "signalDate": "2026-05-14",
+      "description": "The City of Lowell highlighted Eko's Bar & Grill as one of the city's newest restaurants during an Open Lowell event. New restaurants can be useful prospects for recurring local services.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Linen service", "Waste service", "Marketing"],
+      "why": ["Recently opened restaurant", "Physical customer-facing location", "Multiple recurring vendor categories"],
+      "confidence": "High",
+      "sourceName": "City of Lowell",
+      "sourceUrl": "https://lowellma.gov/Calendar.aspx?EID=2907"
+    },
+    {
+      "id": "greater-lowell-chamber-site-2026",
+      "score": 68,
+      "type": "Digital Project",
+      "title": "Greater Lowell Chamber has a new website launch scheduled for late August",
+      "business": "Greater Lowell Chamber of Commerce",
+      "location": "Greater Lowell, MA",
+      "signalDate": "2026-08-10",
+      "description": "The Greater Lowell Chamber says a brand-new website is scheduled to launch in late August. The core website project may already be awarded, but the public launch creates a possible adjacent need for content, analytics, SEO, integrations, or ongoing site support.",
+      "likelyNeeds": ["Website support", "SEO", "Analytics", "Content", "Digital marketing"],
+      "why": ["Publicly announced digital project", "Near-term launch date", "Possible follow-on support needs"],
+      "confidence": "Medium",
+      "sourceName": "Greater Lowell Chamber of Commerce",
+      "sourceUrl": "https://greaterlowellcc.org/"
+    }
+  ]
+}
