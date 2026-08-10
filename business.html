@@ -13,12 +13,12 @@
 <section class="hero subHero">
   <div class="eyebrow">PRIVATE-MARKET OPPORTUNITY INTELLIGENCE</div>
   <h1>Find businesses that may<br><span>need what you sell.</span></h1>
-  <p>Instead of waiting for a company to post a formal bid, BidScout looks for buying signals — new openings, expansions, permits, relocations, hiring growth, private RFPs, and other events that can create demand.</p>
-  <div class="betaNote">BETA PROTOTYPE — the examples below demonstrate the matching model. Live private-market data sources are being added next.</div>
+  <p>BidScout looks for public buying signals — new openings, expansions, permits, relocations, digital projects, private RFPs, and other events that can create demand.</p>
+  <div class="betaNote">LIVE PUBLIC SIGNALS — refreshed as new sourced opportunities are collected. A signal suggests possible demand; it is not proof that a company is currently buying.</div>
 </section>
 <section class="matcherSection">
   <div class="matcherBox">
-    <div><div class="eyebrow">MATCH MY BUSINESS</div><h2>What do you sell?</h2><p>Try a business type to see what kinds of buying signals BidScout would prioritize.</p></div>
+    <div><div class="eyebrow">MATCH MY BUSINESS</div><h2>What do you sell?</h2><p>Enter your service and location to re-rank the current opportunity feed.</p></div>
     <form id="businessMatcher" class="matcherForm">
       <label>Product or service<input id="offerInput" placeholder="e.g. commercial cleaning" value="commercial cleaning" /></label>
       <label>Location<input id="locationInput" placeholder="e.g. Massachusetts" value="Massachusetts" /></label>
@@ -27,9 +27,9 @@
   </div>
 </section>
 <section class="feed businessFeed">
-  <div class="feedHead"><div><div class="eyebrow">EXAMPLE SIGNAL FEED</div><h2 id="businessFeedTitle">Opportunities for commercial cleaning</h2></div><p id="businessFeedSubtitle">Prototype results for Massachusetts. These cards are examples, not live leads yet.</p></div>
-  <div class="signalLegend"><span>Opening</span><span>Expansion</span><span>Permit</span><span>Private RFP</span></div>
-  <div id="businessGrid" class="grid"></div>
+  <div class="feedHead"><div><div class="eyebrow">PUBLIC SIGNAL FEED</div><h2 id="businessFeedTitle">Business opportunities</h2></div><p id="businessFeedSubtitle">Loading sourced public signals…</p></div>
+  <div class="signalLegend"><span>Opening</span><span>Expansion</span><span>Permit</span><span>Digital Project</span><span>Private RFP</span></div>
+  <div id="businessGrid" class="grid"><div class="loading">Loading business signals…</div></div>
 </section>
 <section class="howSection">
   <div class="eyebrow">WHAT COUNTS AS A SIGNAL?</div><h2>Events that suggest spending may be coming.</h2>
