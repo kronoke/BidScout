@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-10T18:45:00Z",
-  "region": "Greater Lowell, Massachusetts",
+  "updatedAt": "2026-08-11T12:45:00Z",
+  "region": "Massachusetts",
   "items": [
     {
       "id": "wonder-chelmsford-2026",
@@ -33,6 +33,21 @@
       "sourceUrl": "https://www.spectrumhealthsystems.org/spectrum-health-systems-expands-access-to-care-with-opening-of-new-treatment-facility-in-lowell/"
     },
     {
+      "id": "cape-cod-coffee-framingham-2026",
+      "score": 86,
+      "type": "Expansion",
+      "title": "Cape Cod Coffee plans an August Framingham opening",
+      "business": "Cape Cod Coffee",
+      "location": "770 Water St, Framingham, MA",
+      "signalDate": "2026-05-07",
+      "description": "Cape Cod Coffee plans to open a new Framingham location in August 2026 as part of its expansion off Cape Cod. A new food-and-beverage location can create near-term demand for recurring local operating and facility vendors.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Local marketing", "Security"],
+      "why": ["New physical location scheduled for August", "Established operator expanding into a new market", "Food-service operations create recurring vendor categories"],
+      "confidence": "High",
+      "sourceName": "Framingham Patch",
+      "sourceUrl": "https://patch.com/massachusetts/framingham/cape-cod-coffee-will-expand-metrowest-report"
+    },
+    {
       "id": "ekos-lowell-2026",
       "score": 82,
       "type": "New Business",
@@ -46,21 +61,6 @@
       "confidence": "High",
       "sourceName": "City of Lowell",
       "sourceUrl": "https://lowellma.gov/Calendar.aspx?EID=2907"
-    },
-    {
-      "id": "greater-lowell-chamber-site-2026",
-      "score": 68,
-      "type": "Digital Project",
-      "title": "Greater Lowell Chamber has a new website launch scheduled for late August",
-      "business": "Greater Lowell Chamber of Commerce",
-      "location": "Greater Lowell, MA",
-      "signalDate": "2026-08-10",
-      "description": "The Greater Lowell Chamber says a brand-new website is scheduled to launch in late August. The core website project may already be awarded, but the public launch creates a possible adjacent need for content, analytics, SEO, integrations, or ongoing site support.",
-      "likelyNeeds": ["Website support", "SEO", "Analytics", "Content", "Digital marketing"],
-      "why": ["Publicly announced digital project", "Near-term launch date", "Possible follow-on support needs"],
-      "confidence": "Medium",
-      "sourceName": "Greater Lowell Chamber of Commerce",
-      "sourceUrl": "https://greaterlowellcc.org/"
     }
   ]
 }
