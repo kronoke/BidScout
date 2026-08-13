@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T12:12:00Z",
+  "updatedAt": "2026-08-13T12:26:00Z",
   "region": "Massachusetts",
   "items": [
     {
@@ -16,6 +16,21 @@
       "confidence": "High",
       "sourceName": "Maersk",
       "sourceUrl": "https://www.maersk.com/news/articles/2026/07/15/maersk-boston-fulfillment-hub-investment-northeast-delivery-capacity"
+    },
+    {
+      "id": "walmart-newton-depot-2026",
+      "score": 91,
+      "type": "Permit",
+      "title": "Walmart won approval for a new Newton microfulfillment facility",
+      "business": "Walmart",
+      "location": "241-247 Riverview Ave, Newton, MA",
+      "signalDate": "2026-07-17",
+      "description": "Newton's Zoning Board of Appeals approved a variance allowing Walmart to move forward with an approximately 20,000-square-foot microfulfillment center in Auburndale. The project is planned as a Walmart Depot for online-order storage and rapid local delivery rather than a customer-facing store.",
+      "likelyNeeds": ["Facility maintenance", "Security", "Commercial cleaning", "Waste service", "Local logistics support"],
+      "why": ["Municipal approval is in place", "New 20,000-square-foot operating facility", "Fulfillment operations can create recurring site-service needs"],
+      "confidence": "High",
+      "sourceName": "Newton Patch",
+      "sourceUrl": "https://patch.com/massachusetts/newton/newton-board-approves-walmart-fulfillment-facility-under-new-variance-law"
     },
     {
       "id": "salt-straw-boston-2026",
@@ -48,6 +63,21 @@
       "sourceUrl": "https://patch.com/massachusetts/framingham/cape-cod-coffee-will-expand-metrowest-report"
     },
     {
+      "id": "industrious-arlington-boston-2026",
+      "score": 86,
+      "type": "Opening",
+      "title": "Industrious is opening a new Arlington Street workspace in Boston",
+      "business": "Industrious",
+      "location": "75 Arlington St, Boston, MA",
+      "signalDate": "2026-05-12",
+      "description": "Industrious announced that its eighth Boston location, the city's first under its smaller flexible-office Indy brand, is opening in August at 75 Arlington Street. The company now lists the location on its Boston workspace directory.",
+      "likelyNeeds": ["Commercial cleaning", "Office supplies", "Security", "IT support", "Event services"],
+      "why": ["New Boston location opening this month", "Customer-facing flexible office operation", "Recurring workplace-service categories"],
+      "confidence": "High",
+      "sourceName": "Boston Business Journal",
+      "sourceUrl": "https://www.bizjournals.com/boston/news/2026/05/12/coworking-company-adding-eighth-boston-location.html"
+    },
+    {
       "id": "wonder-chelmsford-2026",
       "score": 85,
       "type": "Opening",
@@ -76,6 +106,21 @@
       "confidence": "High",
       "sourceName": "Massachusetts Executive Office of Economic Development",
       "sourceUrl": "https://www.mass.gov/news/massachusetts-economic-assistance-coordinating-council-awards-52-million-in-tax-credits-to-businesses-to-create-retain-jobs"
+    },
+    {
+      "id": "cyool-boston-2026",
+      "score": 84,
+      "type": "Opening",
+      "title": "C'Yool Yemeni Cafe and Bakery is preparing to open in Boston's South End",
+      "business": "C'Yool Yemeni Cafe and Bakery",
+      "location": "South End, Boston, MA",
+      "signalDate": "2026-07-16",
+      "description": "C'Yool, a new Yemeni cafe and bakery from Bab Al-Yemen owner Ahmed Mahmood, was reported as preparing to open in the former Atlantico space in Boston's South End during August. The large cafe is planned with on-site coffee roasting and a wood-fired bakery operation.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Local marketing", "Equipment service"],
+      "why": ["New hospitality business scheduled for August", "Large customer-facing cafe and bakery", "On-site roasting and baking add operating-service needs"],
+      "confidence": "Medium",
+      "sourceName": "Boston.com",
+      "sourceUrl": "https://www.boston.com/food/restaurants/2026/07/16/best-restaurant-openings-july-16-2026/"
     },
     {
       "id": "frontrunner-billerica-2026",
