@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T12:15:31Z",
+  "updatedAt": "2026-08-15T12:43:40Z",
   "region": "Massachusetts",
   "items": [
     {
@@ -33,6 +33,21 @@
       "sourceUrl": "https://patch.com/massachusetts/newton/newton-board-approves-walmart-fulfillment-facility-under-new-variance-law"
     },
     {
+      "id": "boston-dynamics-waltham-2026",
+      "score": 91,
+      "type": "Expansion",
+      "title": "Boston Dynamics is developing a 330,000-square-foot Waltham robotics center",
+      "business": "Boston Dynamics",
+      "location": "1601 Trapelo Road, Waltham, MA",
+      "signalDate": "2026-06-24",
+      "description": "Massachusetts economic-development officials reported that Boston Dynamics will renovate and develop approximately 330,000 square feet in Waltham for a mobility and robotics center, consolidate manufacturing operations, invest $100 million, and create 1,250 jobs by 2030. The project is a strong future-facing facility and operations signal, not evidence of a specific open vendor request.",
+      "likelyNeeds": ["Facility maintenance", "Security", "Commercial cleaning", "Industrial services", "IT infrastructure"],
+      "why": ["330,000-square-foot development", "$100 million planned investment", "Manufacturing consolidation and 1,250 planned jobs"],
+      "confidence": "High",
+      "sourceName": "Massachusetts Executive Office of Economic Development",
+      "sourceUrl": "https://www.mass.gov/news/massachusetts-economic-assistance-coordinating-council-awards-52-million-in-tax-credits-to-businesses-to-create-retain-jobs"
+    },
+    {
       "id": "wonder-millbury-brookline-2026",
       "score": 90,
       "type": "Expansion",
@@ -48,19 +63,19 @@
       "sourceUrl": "https://about.wonder.com/news/details/2026/Wonder-Expands-Across-Massachusetts-and-New-Hampshire-with-New-Locations-and-Strong-Demand-/default.aspx"
     },
     {
-      "id": "salt-straw-boston-2026",
+      "id": "aldi-lynn-2026",
       "score": 89,
       "type": "Opening",
-      "title": "Salt & Straw opened its first Massachusetts shop in Boston Seaport",
-      "business": "Salt & Straw",
-      "location": "Boston Seaport, Boston, MA",
-      "signalDate": "2026-07-24",
-      "description": "Salt & Straw opened its first Massachusetts location in Boston's Seaport on July 24, 2026. A newly opened food-service location can create near-term opportunities for recurring operating and facility vendors.",
-      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Local marketing", "Security"],
-      "why": ["First Massachusetts location", "New physical food-service operation", "Open daily with recurring facility needs"],
+      "title": "ALDI opened a new Lynn grocery store",
+      "business": "ALDI",
+      "location": "126 Boston Street, Lynn, MA",
+      "signalDate": "2026-08-06",
+      "description": "ALDI lists 126 Boston Street in Lynn among its current Massachusetts grand openings. A newly opened grocery location can create near-term recurring facility and operating-service opportunities, though no specific vendor need has been announced.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Facility maintenance", "Security"],
+      "why": ["New Massachusetts store opened this month", "Customer-facing grocery operation", "Recurring facility-service categories are plausible"],
       "confidence": "High",
-      "sourceName": "WBZ NewsRadio",
-      "sourceUrl": "https://wbznewsradio.iheart.com/content/first-massacusetts-salt-straw-ice-cream-loation-opens-on-seaport-blvd/"
+      "sourceName": "ALDI US",
+      "sourceUrl": "https://www.aldi.us/store/aldi/pages/grand-openings"
     },
     {
       "id": "cape-cod-coffee-framingham-2026",
@@ -93,6 +108,21 @@
       "sourceUrl": "https://cbset.com/cbset-expands-leadership-team-welcoming-michael-c-john-as-chief-regulatory-and-innovation-officer-crio/"
     },
     {
+      "id": "field-ai-cambridge-2026",
+      "score": 86,
+      "type": "Expansion",
+      "title": "Field AI is expanding with a dedicated Cambridge robot testing center",
+      "business": "Field AI / AI for Humanity Inc.",
+      "location": "Cambridge, MA",
+      "signalDate": "2026-06-24",
+      "description": "Massachusetts economic-development officials reported that Field AI is expanding its local R&D operations through a multi-phase investment that includes leasing a 20,000-to-25,000-square-foot facility for a dedicated robot testing and development center and creating 36 full-time jobs. Specific vendor needs have not been announced.",
+      "likelyNeeds": ["IT infrastructure", "Security", "Facility maintenance", "Commercial cleaning", "Lab and technical support"],
+      "why": ["New dedicated testing facility planned", "20,000-25,000 square feet", "36 planned permanent jobs"],
+      "confidence": "High",
+      "sourceName": "Massachusetts Executive Office of Economic Development",
+      "sourceUrl": "https://www.mass.gov/news/massachusetts-economic-assistance-coordinating-council-awards-52-million-in-tax-credits-to-businesses-to-create-retain-jobs"
+    },
+    {
       "id": "industrious-arlington-boston-2026",
       "score": 86,
       "type": "Opening",
@@ -106,6 +136,21 @@
       "confidence": "High",
       "sourceName": "Boston Business Journal",
       "sourceUrl": "https://www.bizjournals.com/boston/news/2026/05/12/coworking-company-adding-eighth-boston-location.html"
+    },
+    {
+      "id": "sky-nutro-milford-2026",
+      "score": 85,
+      "type": "Expansion",
+      "title": "Sky Nutro is investing $12 million to expand in Milford",
+      "business": "Sky Nutro Incorporated",
+      "location": "Milford, MA",
+      "signalDate": "2026-06-24",
+      "description": "Massachusetts economic-development officials reported that Sky Nutro selected a Milford site after a multi-state search and plans a $12 million expansion that will create 120 jobs. The food and nutrition manufacturing project can create future facility, industrial, staffing, and operating-service opportunities, though no specific purchasing request is stated.",
+      "likelyNeeds": ["Industrial services", "Facility maintenance", "Commercial cleaning", "Staffing support", "Waste service"],
+      "why": ["$12 million planned expansion", "New Milford site", "120 planned jobs"],
+      "confidence": "High",
+      "sourceName": "Massachusetts Executive Office of Economic Development",
+      "sourceUrl": "https://www.mass.gov/news/massachusetts-economic-assistance-coordinating-council-awards-52-million-in-tax-credits-to-businesses-to-create-retain-jobs"
     },
     {
       "id": "thyme-cambridge-2026",
@@ -136,21 +181,6 @@
       "confidence": "High",
       "sourceName": "Massachusetts Executive Office of Economic Development",
       "sourceUrl": "https://www.mass.gov/news/massachusetts-economic-assistance-coordinating-council-awards-52-million-in-tax-credits-to-businesses-to-create-retain-jobs"
-    },
-    {
-      "id": "frontrunner-billerica-2026",
-      "score": 83,
-      "type": "Relocation",
-      "title": "Frontrunner Bus Group relocated into an 88,000-square-foot Billerica headquarters",
-      "business": "Frontrunner Bus Group Inc.",
-      "location": "23 Esquire Road, Billerica, MA",
-      "signalDate": "2026-06-02",
-      "description": "Frontrunner Bus Group announced a move to an 88,000-square-foot Billerica headquarters, with the transition expected to be completed in July 2026. The larger production, administrative and fleet-support facility creates plausible ongoing operational vendor needs.",
-      "likelyNeeds": ["Facility maintenance", "Commercial cleaning", "Security", "IT support", "Waste service"],
-      "why": ["Recently completed headquarters relocation", "88,000-square-foot facility", "Production and fleet-support operations onsite"],
-      "confidence": "High",
-      "sourceName": "Frontrunner Bus Group",
-      "sourceUrl": "https://www.frontrunnerbus.com/post/frontrunnerbus-newhq"
     },
     {
       "id": "blue-collar-customs-west-bridgewater-2026",
