@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T12:43:40Z",
+  "updatedAt": "2026-08-16T12:44:31Z",
   "region": "Massachusetts",
   "items": [
     {
@@ -48,6 +48,21 @@
       "sourceUrl": "https://www.mass.gov/news/massachusetts-economic-assistance-coordinating-council-awards-52-million-in-tax-credits-to-businesses-to-create-retain-jobs"
     },
     {
+      "id": "42-north-dental-boston-2026",
+      "score": 91,
+      "type": "Relocation",
+      "title": "42 North Dental is relocating its home office from Waltham to downtown Boston",
+      "business": "42 North Dental",
+      "location": "99 Summer Street, Boston, MA",
+      "signalDate": "2026-08-26",
+      "description": "42 North Dental is moving its home office from 200 Fifth Avenue in Waltham to 99 Summer Street in Boston. The company says the new office will be ready for team members on August 26. A headquarters move can create near-term workplace and facility-support opportunities, though no specific vendor request has been announced.",
+      "likelyNeeds": ["Office moving support", "IT support", "Office supplies", "Commercial cleaning", "Workplace services"],
+      "why": ["Headquarters relocation with a specific August 26 opening date", "New downtown Boston office", "Move-in and ongoing workplace-service categories are plausible"],
+      "confidence": "High",
+      "sourceName": "42 North Dental",
+      "sourceUrl": "https://www.42northdental.com/themove/"
+    },
+    {
       "id": "wonder-millbury-brookline-2026",
       "score": 90,
       "type": "Expansion",
@@ -61,6 +76,21 @@
       "confidence": "High",
       "sourceName": "Wonder",
       "sourceUrl": "https://about.wonder.com/news/details/2026/Wonder-Expands-Across-Massachusetts-and-New-Hampshire-with-New-Locations-and-Strong-Demand-/default.aspx"
+    },
+    {
+      "id": "game-show-battle-rooms-burlington-2026",
+      "score": 89,
+      "type": "Opening",
+      "title": "Game Show Battle Rooms is opening at Burlington Mall on August 21",
+      "business": "Game Show Battle Rooms",
+      "location": "Burlington Mall, Burlington, MA",
+      "signalDate": "2026-08-21",
+      "description": "Game Show Battle Rooms announced that its Burlington Mall location is scheduled to open for business on August 21. The entertainment venue is a new customer-facing operation and may create recurring local facility, event, security, and marketing needs, though no purchasing request is confirmed.",
+      "likelyNeeds": ["Commercial cleaning", "Security", "Event services", "Local marketing", "Facility maintenance"],
+      "why": ["Specific opening date within days", "New customer-facing entertainment venue", "Recurring facility and event-service categories are plausible"],
+      "confidence": "High",
+      "sourceName": "Burlington Area Chamber of Commerce",
+      "sourceUrl": "https://business.burlingtonchamberofcommerce.org/news"
     },
     {
       "id": "aldi-lynn-2026",
@@ -136,6 +166,21 @@
       "confidence": "High",
       "sourceName": "Boston Business Journal",
       "sourceUrl": "https://www.bizjournals.com/boston/news/2026/05/12/coworking-company-adding-eighth-boston-location.html"
+    },
+    {
+      "id": "boostberry-harvard-square-2026",
+      "score": 86,
+      "type": "Expansion",
+      "title": "BoostBerry is opening a Harvard Square storefront this August",
+      "business": "BoostBerry Açaí & Smoothies",
+      "location": "99 Mount Auburn Street, Cambridge, MA",
+      "signalDate": "2026-07-26",
+      "description": "BoostBerry Açaí & Smoothies plans to open a Harvard Square storefront at 99 Mount Auburn Street in August. The new food-service location is a timely local prospecting signal for recurring operating and facility services, but it does not indicate a confirmed open vendor request.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Local marketing", "Equipment service"],
+      "why": ["New Cambridge storefront planned for this month", "Physical food-service operation", "Recurring local vendor categories are plausible"],
+      "confidence": "High",
+      "sourceName": "The Harvard Crimson",
+      "sourceUrl": "https://www.thecrimson.com/article/2026/7/26/boostberry-acai-harvard-square/"
     },
     {
       "id": "sky-nutro-milford-2026",
