@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T12:05:00Z",
+  "updatedAt": "2026-08-18T12:50:00Z",
   "region": "Massachusetts",
   "items": [
     {
@@ -196,6 +196,51 @@
       "confidence": "Medium",
       "sourceName": "Maple + High",
       "sourceUrl": "https://www.mapleandhigh.com/"
+    },
+    {
+      "id": "august-coffee-worcester-2026",
+      "score": 83,
+      "type": "Opening",
+      "title": "August Coffee opened a new downtown Worcester cafe",
+      "business": "August Coffee",
+      "location": "548 Main St, Worcester, MA",
+      "signalDate": "2026-08-06",
+      "description": "August Coffee recently opened at 548 Main Street in downtown Worcester. The independently owned cafe is now operating daily and creates a timely local-services prospecting signal, though there is no evidence of an active vendor solicitation.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Equipment service", "Local marketing"],
+      "why": ["Opened within the last two weeks", "New customer-facing food-service operation", "Recurring local vendor categories are plausible"],
+      "confidence": "High",
+      "sourceName": "Worcester Patch",
+      "sourceUrl": "https://patch.com/massachusetts/worcester/amp/34607617/locally-owned-coffee-shop-debuts-in-downtown-worcester"
+    },
+    {
+      "id": "industrious-indy-boston-2026",
+      "score": 82,
+      "type": "Expansion",
+      "title": "Industrious is opening its first Indy-branded Boston workspace this month",
+      "business": "Industrious",
+      "location": "75 Arlington St, Boston, MA",
+      "signalDate": "2026-08-01",
+      "description": "Industrious announced that its eighth Boston location, at 75 Arlington Street, is opening in August and will be the company's first local site under its smaller, flexible Indy workspace brand. The new office operation creates plausible workplace and facility-service needs, but no specific vendor request has been announced.",
+      "likelyNeeds": ["Commercial cleaning", "Office supplies", "IT support", "Facility maintenance", "Workplace services"],
+      "why": ["New Boston location opening this month", "Customer-facing flexible workspace", "Recurring workplace-service categories are plausible"],
+      "confidence": "High",
+      "sourceName": "Boston Business Journal",
+      "sourceUrl": "https://www.bizjournals.com/boston/news/2026/05/12/coworking-company-adding-eighth-boston-location.html"
+    },
+    {
+      "id": "roccos-tacos-burlington-2026",
+      "score": 81,
+      "type": "Opening",
+      "title": "Rocco's Tacos opened its first Massachusetts flagship at Burlington Mall",
+      "business": "Rocco's Tacos & Tequila Bar",
+      "location": "Burlington Mall, Burlington, MA",
+      "signalDate": "2026-08-03",
+      "description": "Rocco's Tacos & Tequila Bar officially opened its first Massachusetts location at Burlington Mall on August 3. The new restaurant flagship creates a recent local operating-services signal, but the source does not indicate any active vendor solicitation.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Security", "Local marketing"],
+      "why": ["First Massachusetts location", "Opened within the last three weeks", "Restaurant operations create recurring vendor categories"],
+      "confidence": "High",
+      "sourceName": "Rocco's Tacos / PR Newswire",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/roccos-tacos--tequila-bar-opens-new-england-flagship-at-burlington-mall-302840721.html"
     }
   ]
 }
