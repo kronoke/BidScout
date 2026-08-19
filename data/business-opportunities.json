@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T12:50:00Z",
+  "updatedAt": "2026-08-19T12:40:00Z",
   "region": "Massachusetts",
   "items": [
     {
@@ -33,6 +33,21 @@
       "sourceUrl": "https://www.42northdental.com/themove/"
     },
     {
+      "id": "whoop-boston-expansion-2026",
+      "score": 91,
+      "type": "Expansion",
+      "title": "Whoop plans to roughly double its Kenmore Square headquarters footprint",
+      "business": "Whoop",
+      "location": "Kenmore Square, Boston, MA",
+      "signalDate": "2026-08-13",
+      "description": "Boston Business Journal reports that Whoop plans to roughly double its Kenmore Square headquarters footprint in a tentative office deal described as one of the region's largest leases of the year. A large workplace expansion can create facility, IT, furniture, moving, security, and workplace-service demand, but no vendor request is stated.",
+      "likelyNeeds": ["IT infrastructure", "Office furniture", "Commercial cleaning", "Security", "Workplace services"],
+      "why": ["Major headquarters footprint expansion", "Large office transaction", "Expansion can create multiple workplace vendor categories"],
+      "confidence": "High",
+      "sourceName": "Boston Business Journal",
+      "sourceUrl": "https://www.bizjournals.com/boston/news/2026/08/13/whoop-to-double-kenmore-square-footprint.html"
+    },
+    {
       "id": "walmart-newton-depot-2026",
       "score": 91,
       "type": "Permit",
@@ -63,6 +78,21 @@
       "sourceUrl": "https://www.thedaviscompanies.com/davis-announces-long-term-lease-with-downeast-global-logistics-llc-at-taunton-industrial-facility/"
     },
     {
+      "id": "panera-weston-hq-2026",
+      "score": 90,
+      "type": "Relocation",
+      "title": "Panera signed a 102,000-square-foot lease for its new Weston headquarters",
+      "business": "Panera Bread",
+      "location": "133 Boston Post Road, Weston, MA",
+      "signalDate": "2026-08-04",
+      "description": "Boston Business Journal reports that Panera signed a 12-year lease for 102,000 square feet at 133 Boston Post Road in Weston for a headquarters move from St. Louis planned for next year. The future move creates a substantial workplace-services signal, but there is no evidence of an open local vendor solicitation yet.",
+      "likelyNeeds": ["Office buildout", "IT infrastructure", "Commercial cleaning", "Office furniture", "Workplace services"],
+      "why": ["102,000-square-foot headquarters lease", "Long-term relocation commitment", "Large office move creates multiple vendor categories"],
+      "confidence": "High",
+      "sourceName": "Boston Business Journal",
+      "sourceUrl": "https://www.bizjournals.com/boston/news/2026/08/04/panera-s-weston-lease-totals-102-000-square-feet.html"
+    },
+    {
       "id": "wonder-millbury-brookline-2026",
       "score": 90,
       "type": "Expansion",
@@ -72,7 +102,7 @@
       "signalDate": "2026-06-30",
       "description": "Wonder's published regional expansion schedule lists a Millbury opening for August 20 and a Brookline opening for August 27. These upcoming food-service locations create near-term prospecting signals for recurring operating and facility vendors, although vendor demand is not confirmed.",
       "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Security", "Local marketing"],
-      "why": ["Two openings scheduled within ten days", "New physical food-service operations", "Recurring facility-service categories are plausible"],
+      "why": ["Two openings scheduled within days", "New physical food-service operations", "Recurring facility-service categories are plausible"],
       "confidence": "High",
       "sourceName": "Wonder",
       "sourceUrl": "https://about.wonder.com/news/details/2026/Wonder-Expands-Across-Massachusetts-and-New-Hampshire-with-New-Locations-and-Strong-Demand-/default.aspx"
@@ -123,6 +153,21 @@
       "sourceUrl": "https://cbset.com/cbset-expands-leadership-team-welcoming-michael-c-john-as-chief-regulatory-and-innovation-officer-crio/"
     },
     {
+      "id": "marzae-boston-public-market-2026",
+      "score": 86,
+      "type": "Opening",
+      "title": "Marzae Cellar + Provisions is ramping to full operations at Boston Public Market",
+      "business": "Marzae Cellar + Provisions",
+      "location": "100 Hanover St, Boston, MA",
+      "signalDate": "2026-08-11",
+      "description": "Marzae Cellar + Provisions has opened in Boston Public Market's largest retail space, with expanded evening dining and a draft wine program expected by mid-to-late August. The staged ramp to full operations creates a timely local-services signal, but no specific purchasing request has been announced.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Equipment service", "Local marketing"],
+      "why": ["Still ramping into full operations", "Largest retail space in Boston Public Market", "Food, retail, and evening service create recurring vendor categories"],
+      "confidence": "High",
+      "sourceName": "Boston Patch",
+      "sourceUrl": "https://patch.com/massachusetts/boston/new-wine-bar-restaurant-opens-boston-public-market"
+    },
+    {
       "id": "cape-cod-coffee-framingham-2026",
       "score": 86,
       "type": "Expansion",
@@ -168,6 +213,21 @@
       "sourceUrl": "https://www.mass.gov/news/massachusetts-economic-assistance-coordinating-council-awards-52-million-in-tax-credits-to-businesses-to-create-retain-jobs"
     },
     {
+      "id": "dunkin-jimmy-johns-lexington-2026",
+      "score": 85,
+      "type": "Opening",
+      "title": "A renovated dual-brand Dunkin' and Jimmy John's has opened in Lexington",
+      "business": "The Pesce Network / Dunkin' / Jimmy John's",
+      "location": "323 Marrett Road, Lexington, MA",
+      "signalDate": "2026-08-18",
+      "description": "The Pesce Network reopened the longtime Lexington Dunkin' site on August 18 as a renovated dual-brand Dunkin' and Jimmy John's restaurant. The newly renovated operating site creates a recent facility and food-service vendor signal, although no open purchasing request has been announced.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Equipment service", "Local marketing"],
+      "why": ["Opened August 18", "New ownership and renovation", "Dual-brand food-service operation"],
+      "confidence": "High",
+      "sourceName": "Lexington Patch",
+      "sourceUrl": "https://patch.com/massachusetts/lexington/longtime-lexington-dunkin-reopen-new-addition"
+    },
+    {
       "id": "thyme-cambridge-2026",
       "score": 84,
       "type": "Opening",
@@ -198,21 +258,6 @@
       "sourceUrl": "https://www.mapleandhigh.com/"
     },
     {
-      "id": "august-coffee-worcester-2026",
-      "score": 83,
-      "type": "Opening",
-      "title": "August Coffee opened a new downtown Worcester cafe",
-      "business": "August Coffee",
-      "location": "548 Main St, Worcester, MA",
-      "signalDate": "2026-08-06",
-      "description": "August Coffee recently opened at 548 Main Street in downtown Worcester. The independently owned cafe is now operating daily and creates a timely local-services prospecting signal, though there is no evidence of an active vendor solicitation.",
-      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Equipment service", "Local marketing"],
-      "why": ["Opened within the last two weeks", "New customer-facing food-service operation", "Recurring local vendor categories are plausible"],
-      "confidence": "High",
-      "sourceName": "Worcester Patch",
-      "sourceUrl": "https://patch.com/massachusetts/worcester/amp/34607617/locally-owned-coffee-shop-debuts-in-downtown-worcester"
-    },
-    {
       "id": "industrious-indy-boston-2026",
       "score": 82,
       "type": "Expansion",
@@ -228,19 +273,19 @@
       "sourceUrl": "https://www.bizjournals.com/boston/news/2026/05/12/coworking-company-adding-eighth-boston-location.html"
     },
     {
-      "id": "roccos-tacos-burlington-2026",
+      "id": "avvio-millbury-2026",
       "score": 81,
       "type": "Opening",
-      "title": "Rocco's Tacos opened its first Massachusetts flagship at Burlington Mall",
-      "business": "Rocco's Tacos & Tequila Bar",
-      "location": "Burlington Mall, Burlington, MA",
-      "signalDate": "2026-08-03",
-      "description": "Rocco's Tacos & Tequila Bar officially opened its first Massachusetts location at Burlington Mall on August 3. The new restaurant flagship creates a recent local operating-services signal, but the source does not indicate any active vendor solicitation.",
-      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Security", "Local marketing"],
-      "why": ["First Massachusetts location", "Opened within the last three weeks", "Restaurant operations create recurring vendor categories"],
-      "confidence": "High",
-      "sourceName": "Rocco's Tacos / PR Newswire",
-      "sourceUrl": "https://www.prnewswire.com/news-releases/roccos-tacos--tequila-bar-opens-new-england-flagship-at-burlington-mall-302840721.html"
+      "title": "Avvio Ristorante is preparing a Worcester County opening in Millbury",
+      "business": "Avvio Ristorante",
+      "location": "70 Worcester-Providence Turnpike, Millbury, MA",
+      "signalDate": "2026-08-14",
+      "description": "Avvio Ristorante announced plans to open at The Shops at Blackstone Valley in early fall after shifting from an earlier summer target. The confirmed new restaurant location remains a useful pre-opening local-vendor signal, though the timing is less immediate and no purchasing request is stated.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Equipment service", "Local marketing"],
+      "why": ["Confirmed new restaurant location", "Pre-opening stage", "Recurring food-service vendor categories are plausible"],
+      "confidence": "Medium",
+      "sourceName": "Worcester Patch",
+      "sourceUrl": "https://patch.com/massachusetts/worcester/popular-italian-eatery-announces-central-ma-opening"
     }
   ]
 }
