@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T12:03:48Z",
+  "updatedAt": "2026-08-21T12:30:09Z",
   "region": "Massachusetts",
   "items": [
     {
@@ -18,6 +18,21 @@
       "sourceUrl": "https://www.maersk.com/news/articles/2026/07/15/maersk-boston-fulfillment-hub-investment-northeast-delivery-capacity"
     },
     {
+      "id": "t-market-natick-2026",
+      "score": 94,
+      "type": "Opening",
+      "title": "T Market is opening its Massachusetts flagship at Natick Mall",
+      "business": "T Market",
+      "location": "1245 Worcester St, Natick, MA",
+      "signalDate": "2026-08-27",
+      "description": "T Market says its Massachusetts flagship at Natick Mall is opening now with a grand opening ceremony on August 27. The store combines grocery, Asian beauty, a food hall and bakery, and the company publicly lists a purchasing email, creating an unusually direct vendor-prospecting signal without proving any specific purchase is open.",
+      "likelyNeeds": ["Food and beverage suppliers", "Packaging", "Commercial cleaning", "Waste service", "Local marketing"],
+      "why": ["Grand opening scheduled for August 27", "Multi-department retail and food operation", "Public purchasing contact is listed by the company"],
+      "confidence": "High",
+      "sourceName": "T Market",
+      "sourceUrl": "https://tmarketus.com/"
+    },
+    {
       "id": "42-north-dental-boston-2026",
       "score": 92,
       "type": "Relocation",
@@ -31,6 +46,21 @@
       "confidence": "High",
       "sourceName": "42 North Dental",
       "sourceUrl": "https://www.42northdental.com/themove/"
+    },
+    {
+      "id": "big-y-saugus-2026",
+      "score": 92,
+      "type": "Opening",
+      "title": "Big Y is preparing to open a new Saugus supermarket",
+      "business": "Big Y World Class Market",
+      "location": "357 Broadway, Saugus, MA",
+      "signalDate": "2026-09-10",
+      "description": "Big Y lists Saugus among its grand-opening locations, and company-supplied reporting gives September 10 as the opening date for the approximately 46,000-square-foot supermarket. The company has also been hiring more than 100 workers for the site, making this a strong pre-opening operations signal rather than a confirmed vendor request.",
+      "likelyNeeds": ["Commercial cleaning", "Waste service", "Pest control", "Security", "Local food and operating suppliers"],
+      "why": ["Specific September 10 opening date", "Large supermarket footprint", "More than 100 roles being filled ahead of opening"],
+      "confidence": "High",
+      "sourceName": "Big Y / USA TODAY Network reporting",
+      "sourceUrl": "https://www.bigy.com/page/saugus-ma-grand-opening"
     },
     {
       "id": "whoop-boston-expansion-2026",
@@ -108,21 +138,6 @@
       "sourceUrl": "https://www.mass.gov/news/governor-healey-awards-6-million-to-drive-business-expansion-create-1000-jobs-across-massachusetts"
     },
     {
-      "id": "downeast-global-logistics-taunton-2026",
-      "score": 90,
-      "type": "Expansion",
-      "title": "Downeast Global Logistics is expanding into a 107,055-square-foot Taunton facility",
-      "business": "Downeast Global Logistics LLC / SEKO Logistics",
-      "location": "530 John Hancock Road, Taunton, MA",
-      "signalDate": "2026-06-05",
-      "description": "Downeast Global Logistics will occupy 107,055 square feet at 530 John Hancock Road beginning in August 2026 to expand its distribution operations. The move-in timing and warehouse scale create plausible facility and logistics-support needs, though no specific purchasing request is stated.",
-      "likelyNeeds": ["Facility maintenance", "Commercial cleaning", "Security", "Waste service", "Staffing support"],
-      "why": ["Occupancy begins in August", "107,055-square-foot distribution footprint", "Expansion of regional logistics operations"],
-      "confidence": "High",
-      "sourceName": "The Davis Companies",
-      "sourceUrl": "https://www.thedaviscompanies.com/davis-announces-long-term-lease-with-downeast-global-logistics-llc-at-taunton-industrial-facility/"
-    },
-    {
       "id": "panera-weston-hq-2026",
       "score": 90,
       "type": "Relocation",
@@ -138,34 +153,34 @@
       "sourceUrl": "https://www.bizjournals.com/boston/news/2026/08/04/panera-s-weston-lease-totals-102-000-square-feet.html"
     },
     {
-      "id": "wonder-millbury-brookline-2026",
+      "id": "wonder-brookline-2026",
       "score": 90,
-      "type": "Expansion",
-      "title": "Wonder opens in Millbury today and Brookline on August 27",
+      "type": "Opening",
+      "title": "Wonder is scheduled to open a Brookline location on August 27",
       "business": "Wonder",
-      "location": "Millbury and Brookline, MA",
-      "signalDate": "2026-08-20",
-      "description": "Wonder's published regional expansion schedule lists a Millbury opening for August 20 and a Brookline opening for August 27. These food-service openings create near-term prospecting signals for recurring operating and facility vendors, although vendor demand is not confirmed.",
+      "location": "Brookline, MA",
+      "signalDate": "2026-08-27",
+      "description": "Wonder's published regional expansion schedule lists a Brookline opening for August 27. The food-service opening creates a near-term prospecting signal for recurring operating and facility vendors, although vendor demand is not confirmed.",
       "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Security", "Local marketing"],
-      "why": ["One location opens today and another next week", "New physical food-service operations", "Recurring facility-service categories are plausible"],
+      "why": ["Specific opening date next week", "New physical food-service operation", "Recurring facility-service categories are plausible"],
       "confidence": "High",
       "sourceName": "Wonder",
       "sourceUrl": "https://about.wonder.com/news/details/2026/Wonder-Expands-Across-Massachusetts-and-New-Hampshire-with-New-Locations-and-Strong-Demand-/default.aspx"
     },
     {
-      "id": "game-show-battle-rooms-burlington-2026",
+      "id": "big-chicken-beverly-2026",
       "score": 89,
       "type": "Opening",
-      "title": "Game Show Battle Rooms is opening at Burlington Mall on August 21",
-      "business": "Game Show Battle Rooms",
-      "location": "Burlington Mall, Burlington, MA",
-      "signalDate": "2026-08-21",
-      "description": "Game Show Battle Rooms announced that its Burlington Mall location is scheduled to open for business on August 21. The new customer-facing entertainment venue may create recurring local facility, event, security, and marketing needs, though no purchasing request is confirmed.",
-      "likelyNeeds": ["Commercial cleaning", "Security", "Event services", "Local marketing", "Facility maintenance"],
-      "why": ["Specific opening date within one day", "New customer-facing entertainment venue", "Recurring facility and event-service categories are plausible"],
+      "title": "Big Chicken is holding its Beverly grand opening on August 22",
+      "business": "Big Chicken / JBMM Hospitality",
+      "location": "55 Dodge Street, Beverly, MA",
+      "signalDate": "2026-08-22",
+      "description": "Big Chicken announced an August 22 grand opening for its Beverly restaurant, the local franchise group's second permanent Massachusetts location. The imminent food-service launch creates plausible recurring local operating and facility needs, but no vendor request is stated.",
+      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Linen service", "Local marketing"],
+      "why": ["Grand opening is August 22", "New permanent restaurant location", "Recurring food-service vendor categories are plausible"],
       "confidence": "High",
-      "sourceName": "Burlington Area Chamber of Commerce",
-      "sourceUrl": "https://business.burlingtonchamberofcommerce.org/news"
+      "sourceName": "Big Chicken / Craveworthy Brands",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/shaquille-oneals-big-chicken-celebrates-grand-opening-in-beverly-massachusetts-on-august-22-302856683.html"
     },
     {
       "id": "boston-dynamics-waltham-2026",
@@ -207,55 +222,10 @@
       "signalDate": "2026-08-12",
       "description": "Massachusetts awarded Entegris $500,000 to help purchase and install manufacturing, handling, cleaning, inspection and cleanroom equipment and make upgrades at its Billerica site to expand advanced filter production. This is a high-confidence equipment and facilities signal, not a confirmed open solicitation.",
       "likelyNeeds": ["Cleanroom services", "Equipment installation", "Industrial maintenance", "Electrical support", "Specialized cleaning"],
-      "why": ["New manufacturing and cleanroom equipment", "Site upgrades are funded", "Existing 485-person workforce supports ongoing facility demand"],
+      "why": ["Manufacturing expansion is state-supported", "Cleanroom and inspection equipment installation", "Facility upgrades are explicitly part of the project"],
       "confidence": "High",
       "sourceName": "Massachusetts Executive Office of Economic Development",
       "sourceUrl": "https://www.mass.gov/news/governor-healey-awards-6-million-to-drive-business-expansion-create-1000-jobs-across-massachusetts"
-    },
-    {
-      "id": "field-ai-cambridge-2026",
-      "score": 86,
-      "type": "Expansion",
-      "title": "Field AI is expanding with a dedicated Cambridge robot testing center",
-      "business": "Field AI / AI for Humanity Inc.",
-      "location": "Cambridge, MA",
-      "signalDate": "2026-06-24",
-      "description": "Massachusetts economic-development officials report that Field AI is expanding local R&D operations through a multi-phase investment that includes leasing a 20,000-to-25,000-square-foot facility for a dedicated robot testing and development center and creating 36 full-time jobs. Specific vendor needs have not been announced.",
-      "likelyNeeds": ["IT infrastructure", "Security", "Facility maintenance", "Commercial cleaning", "Lab and technical support"],
-      "why": ["New dedicated testing facility planned", "20,000-25,000 square feet", "36 planned permanent jobs"],
-      "confidence": "High",
-      "sourceName": "Massachusetts Executive Office of Economic Development",
-      "sourceUrl": "https://www.mass.gov/news/massachusetts-economic-assistance-coordinating-council-awards-52-million-in-tax-credits-to-businesses-to-create-retain-jobs"
-    },
-    {
-      "id": "sky-nutro-milford-2026",
-      "score": 85,
-      "type": "Expansion",
-      "title": "Sky Nutro is investing $12 million to expand in Milford",
-      "business": "Sky Nutro Incorporated",
-      "location": "Milford, MA",
-      "signalDate": "2026-06-24",
-      "description": "Massachusetts economic-development officials report that Sky Nutro selected a Milford site after a multi-state search and plans a $12 million expansion that will create 120 jobs. The project creates a future facility, industrial, staffing and operating-services signal, though no specific purchasing request is stated.",
-      "likelyNeeds": ["Industrial services", "Facility maintenance", "Commercial cleaning", "Staffing support", "Waste service"],
-      "why": ["$12 million planned expansion", "New Milford site", "120 planned jobs"],
-      "confidence": "High",
-      "sourceName": "Massachusetts Executive Office of Economic Development",
-      "sourceUrl": "https://www.mass.gov/news/massachusetts-economic-assistance-coordinating-council-awards-52-million-in-tax-credits-to-businesses-to-create-retain-jobs"
-    },
-    {
-      "id": "avvio-millbury-2026",
-      "score": 81,
-      "type": "Opening",
-      "title": "Avvio Ristorante is preparing a Worcester County opening in Millbury",
-      "business": "Avvio Ristorante",
-      "location": "70 Worcester-Providence Turnpike, Millbury, MA",
-      "signalDate": "2026-08-14",
-      "description": "Avvio Ristorante announced plans to open at The Shops at Blackstone Valley in early fall after shifting from an earlier summer target. The confirmed new restaurant location remains a useful pre-opening local-vendor signal, though the timing is less immediate and no purchasing request is stated.",
-      "likelyNeeds": ["Commercial cleaning", "Pest control", "Waste service", "Equipment service", "Local marketing"],
-      "why": ["Confirmed new restaurant location", "Pre-opening stage", "Recurring food-service vendor categories are plausible"],
-      "confidence": "Medium",
-      "sourceName": "Worcester Patch",
-      "sourceUrl": "https://patch.com/massachusetts/worcester/popular-italian-eatery-announces-central-ma-opening"
     }
   ]
 }
