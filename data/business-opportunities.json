@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T12:30:00Z",
+  "updatedAt": "2026-09-04T12:38:00Z",
   "region": "Massachusetts",
   "items": [
     {
@@ -81,16 +81,16 @@
       "id": "nordstrom-rack-plymouth-mansfield-2026",
       "score": 94,
       "type": "Expansion",
-      "title": "Nordstrom Rack opens Plymouth today and has a Mansfield store scheduled for October",
+      "title": "Nordstrom Rack is preparing its 23,700-square-foot Mansfield store for an October 29 opening",
       "business": "Nordstrom Rack",
-      "location": "Plymouth and Mansfield, MA",
-      "signalDate": "2026-09-03",
-      "description": "Nordstrom Rack's Colony Place Plymouth store opens September 3, while its Mansfield Crossing store is scheduled for October 29. The second location preserves a clear pre-opening service window; no local vendor solicitation is stated.",
+      "location": "280 School Street, Mansfield, MA",
+      "signalDate": "2026-09-04",
+      "description": "Nordstrom Rack's official openings page lists Mansfield Crossing for October 29, and Nordstrom Careers is actively recruiting for the new-store launch. Plymouth opened September 3, so this record now focuses on the still-forward-looking Mansfield location. No local vendor solicitation is stated.",
       "likelyNeeds": ["Commercial cleaning", "Security", "Waste service", "Retail operating supplies", "Local marketing"],
-      "why": ["Plymouth store opens September 3", "Mansfield Crossing store opens October 29", "Two new physical retail locations"],
+      "why": ["Specific October 29 opening date", "23,700-square-foot new store", "Active new-store recruiting confirms launch preparations"],
       "confidence": "High",
-      "sourceName": "Nordstrom Rack",
-      "sourceUrl": "https://stores.nordstromrack.com/us/ma/plymouth/242-colony-place-plymouth"
+      "sourceName": "Nordstrom Rack / Nordstrom Careers",
+      "sourceUrl": "https://www.nordstromrack.com/customer-service/store-details/new-store-openings"
     },
     {
       "id": "synergy-294-washington-boston-2026",
@@ -153,6 +153,21 @@
       "sourceUrl": "https://bostonrealestatetimes.com/winncompanies-acquires-290-unit-chicopee-affordable-housing-community-launches-41-5-million-rehabilitation/"
     },
     {
+      "id": "7th-street-burger-saugus-cambridge-2026",
+      "score": 93,
+      "type": "Expansion",
+      "title": "7th Street Burger confirmed two more Greater Boston locations, with Saugus targeting October",
+      "business": "7th Street Burger",
+      "location": "880 Broadway, Saugus, MA and 37 Brattle Street, Cambridge, MA",
+      "signalDate": "2026-09-03",
+      "description": "7th Street Burger confirmed new locations in Saugus and Harvard Square. The 46-seat Saugus restaurant is on track for October 2026, while the 22-seat Cambridge location is expected in the first half of 2027 and still has a Cambridge special-permit hearing scheduled for September 10. No vendor solicitation is stated.",
+      "likelyNeeds": ["Food and beverage suppliers", "Restaurant equipment and smallwares", "Commercial cleaning", "Pest control", "Waste service"],
+      "why": ["Two-location Massachusetts expansion confirmed by company marketing", "Saugus targets October 2026", "Cambridge location has an active permitting milestone"],
+      "confidence": "High",
+      "sourceName": "What Now Boston / Cambridge Board of Zoning Appeal",
+      "sourceUrl": "https://whatnow.com/boston/restaurants/7th-street-burger-expanding-with-two-more-greater-boston-locations/"
+    },
+    {
       "id": "harvard-street-health-center-dorchester-2026",
       "score": 92,
       "type": "Development",
@@ -168,29 +183,14 @@
       "sourceUrl": "https://www.dotnews.com/2026/08/28/plans-for-new-harvard-street-health-facility-moving-ahead/"
     },
     {
-      "id": "big-y-saugus-2026",
-      "score": 92,
-      "type": "Opening",
-      "title": "Big Y is preparing to open a new Saugus supermarket",
-      "business": "Big Y World Class Market",
-      "location": "357 Broadway, Saugus, MA",
-      "signalDate": "2026-09-10",
-      "description": "Big Y lists a September 10 opening for its new Saugus supermarket. The site is a strong pre-opening operating-services signal, not a confirmed vendor request.",
-      "likelyNeeds": ["Commercial cleaning", "Waste service", "Pest control", "Security", "Local food and operating suppliers"],
-      "why": ["Specific September 10 opening date", "Large supermarket operation", "Recurring operating needs are plausible"],
-      "confidence": "High",
-      "sourceName": "Big Y",
-      "sourceUrl": "https://www.bigy.com/page/saugus-ma-grand-opening"
-    },
-    {
       "id": "hawksmoor-boston-2026",
       "score": 92,
       "type": "Opening",
-      "title": "Hawksmoor is opening a large Boston restaurant on September 8",
+      "title": "Hawksmoor is opening a 280-seat Boston restaurant on September 8",
       "business": "Hawksmoor",
       "location": "15 Necco Street, Boston, MA",
-      "signalDate": "2026-09-08",
-      "description": "Hawksmoor's first Boston restaurant is scheduled to open September 8 in Fort Point, with reporting describing a roughly 280-seat operation. The launch suggests recurring operating needs but does not confirm a vendor solicitation.",
+      "signalDate": "2026-09-04",
+      "description": "Current reporting confirms Hawksmoor's first Boston restaurant is scheduled to open September 8 in Fort Point with roughly 280 seats. The launch suggests recurring operating needs but does not confirm a vendor solicitation.",
       "likelyNeeds": ["Commercial cleaning", "Linen service", "Pest control", "Waste service", "Food and beverage suppliers"],
       "why": ["Specific September 8 opening date", "Large full-service restaurant footprint", "New Boston market entry"],
       "confidence": "High",
@@ -246,16 +246,16 @@
       "id": "lpm-boston-2026",
       "score": 91,
       "type": "Opening",
-      "title": "LPM Restaurant & Bar is opening at Four Seasons One Dalton on September 24",
+      "title": "LPM Restaurant & Bar is preparing its public opening at Four Seasons One Dalton for September 25",
       "business": "LPM Restaurant & Bar",
       "location": "1 Dalton Street, Boston, MA",
-      "signalDate": "2026-09-24",
-      "description": "LPM Restaurant & Bar will open an 80-seat restaurant at Four Seasons Hotel One Dalton Street on September 24, its second U.S. location and first in the Northeast. The opening creates plausible recurring food-service and facility needs, but no vendor solicitation is stated.",
+      "signalDate": "2026-09-04",
+      "description": "Fresh reporting says LPM Restaurant & Bar is softly open for Four Seasons hotel guests and is slated to open to the public September 25. The roughly 80-seat restaurant is LPM's first Northeast U.S. location. No vendor solicitation is stated.",
       "likelyNeeds": ["Food and beverage suppliers", "Linen service", "Commercial cleaning", "Pest control", "Waste service"],
-      "why": ["Specific September 24 opening date", "First Northeast location", "Breakfast, lunch and dinner operation inside a luxury hotel"],
+      "why": ["Public opening now reported for September 25", "First Northeast location", "Breakfast, lunch and dinner operation inside a luxury hotel"],
       "confidence": "High",
-      "sourceName": "Boston.com",
-      "sourceUrl": "https://www.boston.com/food/restaurants/2026/08/31/lpm-restaurant-boston-open-date-september-24/"
+      "sourceName": "The Boston Globe",
+      "sourceUrl": "https://www.bostonglobe.com/2026/09/04/lifestyle/lpm-restaurant-four-seasons-first-look/"
     },
     {
       "id": "helfrich-lawrence-2026",
@@ -273,6 +273,21 @@
       "sourceUrl": "https://www.mass.gov/news/governor-healey-awards-6-million-to-drive-business-expansion-create-1000-jobs-across-massachusetts"
     },
     {
+      "id": "west-acton-oktoberfest-vendors-2026",
+      "score": 91,
+      "type": "Vendor Opportunity",
+      "title": "West Acton Oktoberfest is accepting visiting-vendor applications through September 9",
+      "business": "West Acton Village Merchants Association",
+      "location": "Gardner Field, West Acton, MA",
+      "signalDate": "2026-09-04",
+      "description": "The West Acton Village Merchants Association is publicly accepting visiting-vendor applications for its September 26 Oktoberfest. Applications and payment are due September 9. This is an explicit vendor opportunity subject to organizer approval and event rules.",
+      "likelyNeeds": ["Craft vendors", "Clothing and jewelry vendors", "Food vendors", "Home-goods vendors", "Beauty and specialty-product vendors"],
+      "why": ["Explicit public vendor application", "September 9 application deadline", "September 26 event provides a defined selling window"],
+      "confidence": "High",
+      "sourceName": "West Acton Village Merchants Association",
+      "sourceUrl": "https://www.westactonvillage.org/oktoberfest-visiting-vendors"
+    },
+    {
       "id": "slick-city-milford-2026",
       "score": 90,
       "type": "Opening",
@@ -288,19 +303,19 @@
       "sourceUrl": "https://www.nbcboston.com/boston-business-journal/dry-slide-park-coming-to-massachusetts-this-fall/3996095/"
     },
     {
-      "id": "aldeyra-concord-hq-2026",
-      "score": 90,
-      "type": "Relocation",
-      "title": "Aldeyra Therapeutics' new Concord headquarters lease reached its September commencement date",
-      "business": "Aldeyra Therapeutics, Inc.",
-      "location": "23 Bradford Street, Concord, MA",
-      "signalDate": "2026-09-01",
-      "description": "Aldeyra Therapeutics disclosed an approximately 4,067-square-foot office lease at 23 Bradford Street in Concord, commencing September 1 and intended for use as its corporate headquarters. The immediate move-in window suggests office setup and recurring service needs but is not a vendor solicitation.",
-      "likelyNeeds": ["IT and networking", "Office furniture", "Moving support", "Commercial cleaning", "Workplace services"],
-      "why": ["Headquarters lease commenced September 1", "SEC-disclosed office commitment", "Immediate relocation/setup window"],
+      "id": "petulas-south-boston-expansion-2026",
+      "score": 89,
+      "type": "Expansion",
+      "title": "Petula's is expanding into the neighboring South Boston building",
+      "business": "Petula's",
+      "location": "81 L Street, South Boston, MA",
+      "signalDate": "2026-09-03",
+      "description": "Petula's owner confirmed the restaurant is expanding into the neighboring building, adding seating, a second bar and more room for larger events. Construction is still in its early stages and no opening timeline or vendor solicitation has been announced.",
+      "likelyNeeds": ["Restaurant buildout", "Bar equipment and fixtures", "Furniture", "Event-space support", "Commercial cleaning"],
+      "why": ["Expansion confirmed directly by the owner", "Construction is in early stages", "Second bar and larger event capacity increase the operating footprint"],
       "confidence": "High",
-      "sourceName": "U.S. SEC filing",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1341235/000119312526326337/aldx-20260728.htm"
+      "sourceName": "What Now Boston",
+      "sourceUrl": "https://whatnow.com/boston/restaurants/petulas-expanding-into-neighboring-building-in-south-boston/"
     },
     {
       "id": "celine-boston-seaport-2026",
@@ -333,19 +348,19 @@
       "sourceUrl": "https://bostonrealestatetimes.com/the-woolly-brew-to-open-cafe-and-yarn-shop-in-belmont/"
     },
     {
-      "id": "fleahive-north-adams-vendors-2026",
-      "score": 86,
+      "id": "local-love-pittsfield-vendors-2026",
+      "score": 87,
       "type": "Vendor Opportunity",
-      "title": "FleaHive Market is accepting vendors for its September North Adams market",
-      "business": "Savvy Hive / FleaHive Market",
-      "location": "Hotel Downstreet, 40 Main Street, North Adams, MA",
-      "signalDate": "2026-09-03",
-      "description": "FleaHive Market is advertising a call for vendors for its September 19 market in North Adams, including vintage and secondhand goods, handmade work, upcycled goods and textiles. This is an explicit vendor-recruitment opportunity, subject to the organizer's application requirements.",
-      "likelyNeeds": ["Vintage and secondhand vendors", "Handmade goods", "Upcycled products", "Textile vendors", "Event vendors"],
-      "why": ["Explicit public call for vendors", "September 19 event date", "Organizer provides an application channel"],
-      "confidence": "Medium",
-      "sourceName": "Savvy Hive / FleaHive Market",
-      "sourceUrl": "https://www.savvyhive.co/fleahive-market"
+      "title": "Downtown Pittsfield is accepting artisan vendors for the September 27 Local Love Arts Festival",
+      "business": "Downtown Pittsfield, Inc.",
+      "location": "The Common, 100 First Street, Pittsfield, MA",
+      "signalDate": "2026-09-04",
+      "description": "Downtown Pittsfield, Inc. says it is accepting applications from Berkshire County-based artisan vendors for the September 27 Local Love Arts Festival. Eligible sellers include visual artists, craftspeople, textile and jewelry makers, and makers of packaged foods and sweets. This is an explicit vendor opportunity subject to organizer approval.",
+      "likelyNeeds": ["Visual artists", "Craft vendors", "Textile and jewelry makers", "Packaged food vendors", "Handmade-product vendors"],
+      "why": ["Organizer is actively accepting vendor applications", "September 27 event date", "Defined vendor categories and application channel"],
+      "confidence": "High",
+      "sourceName": "Downtown Pittsfield, Inc.",
+      "sourceUrl": "https://downtownpittsfield.com/event/downtown-pittsfield-inc-announces-local-love-arts-festival/"
     }
   ]
 }
