@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T12:38:00Z",
+  "updatedAt": "2026-09-05T12:41:43Z",
   "region": "Massachusetts",
   "items": [
     {
@@ -18,21 +18,6 @@
       "sourceUrl": "https://nerej.com/breakthrough-properties-completes-sale-to-pg-gillette"
     },
     {
-      "id": "reframe-billerica-fab1-2026",
-      "score": 95,
-      "type": "Expansion",
-      "title": "Reframe Systems is opening a new Billerica microfactory after raising $40 million",
-      "business": "Reframe Systems",
-      "location": "Billerica, MA",
-      "signalDate": "2026-08-31",
-      "description": "Reframe Systems announced $40 million in new financing and said its FAB1 microfactory in Billerica will begin operations October 5. The company says the facility is designed for up to 500 multifamily units or 250 single-family homes annually with less than $5 million of equipment. No specific vendor solicitation is stated.",
-      "likelyNeeds": ["Industrial equipment", "Robotics and automation support", "Electrical and power systems", "Facility maintenance", "IT and networking"],
-      "why": ["New Billerica production facility", "October 5 operations target", "Fresh $40 million financing supports expansion"],
-      "confidence": "High",
-      "sourceName": "Reframe Systems / Business Wire",
-      "sourceUrl": "https://www.businesswire.com/news/home/20260831532459/en/Reframe-Systems-Raises-%2440M-to-Industrialize-Homebuilding-and-Expand-Microfactory-Network"
-    },
-    {
       "id": "autonodyne-boston-demo-center-2026",
       "score": 95,
       "type": "Expansion",
@@ -48,19 +33,19 @@
       "sourceUrl": "https://www.mass.gov/news/governor-healey-awards-6-million-to-drive-business-expansion-create-1000-jobs-across-massachusetts"
     },
     {
-      "id": "t-market-natick-2026",
+      "id": "reframe-billerica-fab1-2026",
       "score": 95,
-      "type": "Opening",
-      "title": "T Market opened its Massachusetts flagship at Natick Mall",
-      "business": "T Market",
-      "location": "1245 Worcester St, Natick, MA",
-      "signalDate": "2026-08-27",
-      "description": "T Market opened its Massachusetts flagship at Natick Mall on August 27. The multi-department grocery, beauty, food-hall and bakery operation remains prospectable because the company publicly lists a purchasing contact; this does not imply a specific purchase is open.",
-      "likelyNeeds": ["Food and beverage suppliers", "Packaging", "Commercial cleaning", "Waste service", "Local marketing"],
-      "why": ["Flagship opened August 27", "Multi-department retail and food operation", "Public purchasing contact is listed by the company"],
+      "type": "Expansion",
+      "title": "Reframe Systems is opening a new Billerica microfactory after raising $40 million",
+      "business": "Reframe Systems",
+      "location": "Billerica, MA",
+      "signalDate": "2026-08-31",
+      "description": "Reframe Systems announced $40 million in new financing and said its FAB1 microfactory in Billerica will begin operations October 5. The company says the facility is designed for up to 500 multifamily units or 250 single-family homes annually with less than $5 million of equipment. No specific vendor solicitation is stated.",
+      "likelyNeeds": ["Industrial equipment", "Robotics and automation support", "Electrical and power systems", "Facility maintenance", "IT and networking"],
+      "why": ["New Billerica production facility", "October 5 operations target", "Fresh $40 million financing supports expansion"],
       "confidence": "High",
-      "sourceName": "T Market",
-      "sourceUrl": "https://tmarketus.com/"
+      "sourceName": "Reframe Systems / Business Wire",
+      "sourceUrl": "https://www.businesswire.com/news/home/20260831532459/en/Reframe-Systems-Raises-%2440M-to-Industrialize-Homebuilding-and-Expand-Microfactory-Network"
     },
     {
       "id": "cps-attleboro-2026",
@@ -108,6 +93,21 @@
       "sourceUrl": "https://www.mass.gov/news/governor-healey-announces-153-million-to-convert-commercial-properties-into-856-new-homes"
     },
     {
+      "id": "7th-street-burger-saugus-cambridge-2026",
+      "score": 93,
+      "type": "Expansion",
+      "title": "7th Street Burger confirmed two more Greater Boston locations, with Saugus targeting October",
+      "business": "7th Street Burger",
+      "location": "880 Broadway, Saugus, MA and 37 Brattle Street, Cambridge, MA",
+      "signalDate": "2026-09-03",
+      "description": "7th Street Burger confirmed new locations in Saugus and Harvard Square. The 46-seat Saugus restaurant is on track for October 2026, while the 22-seat Cambridge location is expected in the first half of 2027 and still has a Cambridge special-permit hearing scheduled for September 10. No vendor solicitation is stated.",
+      "likelyNeeds": ["Food and beverage suppliers", "Restaurant equipment and smallwares", "Commercial cleaning", "Pest control", "Waste service"],
+      "why": ["Two-location Massachusetts expansion confirmed by company marketing", "Saugus targets October 2026", "Cambridge location has an active permitting milestone"],
+      "confidence": "High",
+      "sourceName": "What Now Boston / Cambridge Board of Zoning Appeal",
+      "sourceUrl": "https://whatnow.com/boston/restaurants/7th-street-burger-expanding-with-two-more-greater-boston-locations/"
+    },
+    {
       "id": "bicara-boston-hq-2026",
       "score": 93,
       "type": "Relocation",
@@ -121,6 +121,21 @@
       "confidence": "High",
       "sourceName": "U.S. SEC Form 8-K",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2023658/000162828026058937/bcax-20260821.htm"
+    },
+    {
+      "id": "strong-pilates-greater-boston-2026",
+      "score": 93,
+      "type": "Expansion",
+      "title": "STRONG Pilates is preparing three Greater Boston studios, with Back Bay and Fenway set for November 7",
+      "business": "STRONG Pilates / Momentic Studios",
+      "location": "10 Park Plaza and 650 Beacon Street, Boston, MA; 165 Main Street, Cambridge, MA",
+      "signalDate": "2026-09-04",
+      "description": "STRONG Pilates is entering Massachusetts with three Greater Boston studios. Fresh reporting says the Back Bay and Fenway locations are on track to open November 7, while the Kendall Square opening date is still to be announced. The multi-site launch creates plausible fit-out and operating-service needs, but no local vendor solicitation is stated.",
+      "likelyNeeds": ["Fitness studio buildout", "AV and connected fitness technology", "Commercial cleaning", "Security and access control", "Local marketing"],
+      "why": ["Three-location Massachusetts market entry", "Two studios have a specific November 7 opening date", "Specialized connected fitness equipment and studio infrastructure"],
+      "confidence": "High",
+      "sourceName": "STRONG Pilates / What Now Boston",
+      "sourceUrl": "https://whatnow.com/boston/retail/strong-pilates-expanding-into-massachusetts-with-three-greater-boston-studios/"
     },
     {
       "id": "tori-japan-massachusetts-expansion-2026",
@@ -153,49 +168,19 @@
       "sourceUrl": "https://bostonrealestatetimes.com/winncompanies-acquires-290-unit-chicopee-affordable-housing-community-launches-41-5-million-rehabilitation/"
     },
     {
-      "id": "7th-street-burger-saugus-cambridge-2026",
-      "score": 93,
-      "type": "Expansion",
-      "title": "7th Street Burger confirmed two more Greater Boston locations, with Saugus targeting October",
-      "business": "7th Street Burger",
-      "location": "880 Broadway, Saugus, MA and 37 Brattle Street, Cambridge, MA",
-      "signalDate": "2026-09-03",
-      "description": "7th Street Burger confirmed new locations in Saugus and Harvard Square. The 46-seat Saugus restaurant is on track for October 2026, while the 22-seat Cambridge location is expected in the first half of 2027 and still has a Cambridge special-permit hearing scheduled for September 10. No vendor solicitation is stated.",
-      "likelyNeeds": ["Food and beverage suppliers", "Restaurant equipment and smallwares", "Commercial cleaning", "Pest control", "Waste service"],
-      "why": ["Two-location Massachusetts expansion confirmed by company marketing", "Saugus targets October 2026", "Cambridge location has an active permitting milestone"],
-      "confidence": "High",
-      "sourceName": "What Now Boston / Cambridge Board of Zoning Appeal",
-      "sourceUrl": "https://whatnow.com/boston/restaurants/7th-street-burger-expanding-with-two-more-greater-boston-locations/"
-    },
-    {
-      "id": "harvard-street-health-center-dorchester-2026",
+      "id": "cof-block-party-vendors-2026",
       "score": 92,
-      "type": "Development",
-      "title": "Harvard Street Neighborhood Health Center is targeting a late-September groundbreaking for its new Dorchester facility",
-      "business": "Harvard Street Neighborhood Health Center",
-      "location": "8 Old Road, Dorchester, MA",
-      "signalDate": "2026-08-28",
-      "description": "Harvard Street Neighborhood Health Center's CEO said the organization hopes to close remaining paperwork within about a month and could break ground by late September on a new facility, followed by an approximately 18-month construction process. The timing remains conditional and no vendor solicitation is stated.",
-      "likelyNeeds": ["Healthcare construction", "Mechanical and electrical systems", "Laboratory and pharmacy fit-out", "Security and access control", "Post-construction cleaning"],
-      "why": ["Fresh late-September groundbreaking target", "Approved purpose-built health facility", "Medical, dental, lab and pharmacy uses"],
+      "type": "Vendor Opportunity",
+      "title": "Colleges of the Fenway is accepting business vendors for its September 11 Block Party",
+      "business": "Colleges of the Fenway",
+      "location": "Emmanuel College Quad, 400 Fenway, Boston, MA",
+      "signalDate": "2026-09-05",
+      "description": "Colleges of the Fenway is offering vendor registration for its September 11 Block Party at Emmanuel College, a cross-campus event expected to reach students from five member institutions. The official page lists a $200 vendor registration fee, with waived fees for nonprofits and possible in-kind arrangements for food or drink providers. This is an explicit promotional vendor opportunity, not a procurement contract.",
+      "likelyNeeds": ["Local business exhibitors", "Food and beverage vendors", "Student-focused products and services", "Giveaways and samples", "Event sponsorships"],
+      "why": ["Official vendor registration is currently offered", "September 11 event provides an immediate outreach window", "Five-college consortium gives vendors access to a large student audience"],
       "confidence": "High",
-      "sourceName": "Dorchester Reporter",
-      "sourceUrl": "https://www.dotnews.com/2026/08/28/plans-for-new-harvard-street-health-facility-moving-ahead/"
-    },
-    {
-      "id": "hawksmoor-boston-2026",
-      "score": 92,
-      "type": "Opening",
-      "title": "Hawksmoor is opening a 280-seat Boston restaurant on September 8",
-      "business": "Hawksmoor",
-      "location": "15 Necco Street, Boston, MA",
-      "signalDate": "2026-09-04",
-      "description": "Current reporting confirms Hawksmoor's first Boston restaurant is scheduled to open September 8 in Fort Point with roughly 280 seats. The launch suggests recurring operating needs but does not confirm a vendor solicitation.",
-      "likelyNeeds": ["Commercial cleaning", "Linen service", "Pest control", "Waste service", "Food and beverage suppliers"],
-      "why": ["Specific September 8 opening date", "Large full-service restaurant footprint", "New Boston market entry"],
-      "confidence": "High",
-      "sourceName": "Hawksmoor / Boston.com",
-      "sourceUrl": "https://www.boston.com/food/restaurants/2026/08/26/hawksmoor-restaurant-opening-fort-point-seaport/"
+      "sourceName": "Colleges of the Fenway",
+      "sourceUrl": "https://www.colleges-fenway.org/block-party/"
     },
     {
       "id": "forman-mills-springfield-2026",
@@ -213,19 +198,19 @@
       "sourceUrl": "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/forman-mills-opens-its-first-springfield-location-in-the-city-of-first-1208899"
     },
     {
-      "id": "smc-devens-2026",
-      "score": 91,
-      "type": "Expansion",
-      "title": "SMC is expanding its Devens medical-device manufacturing campus",
-      "business": "SMC Ltd.",
-      "location": "Devens, MA",
-      "signalDate": "2026-08-12",
-      "description": "Massachusetts awarded SMC $1.25 million to renovate its existing 330,000-square-foot Devens facility and construct a new 100,000-square-foot building. The state-backed capital project includes HVAC, power and manufacturing-system work.",
-      "likelyNeeds": ["Industrial construction", "HVAC", "Electrical and power systems", "Facility maintenance", "Commercial cleaning"],
-      "why": ["100,000-square-foot new building", "Renovation of a 330,000-square-foot facility", "State-backed capital project"],
+      "id": "hawksmoor-boston-2026",
+      "score": 92,
+      "type": "Opening",
+      "title": "Hawksmoor is opening a 280-seat Boston restaurant on September 8",
+      "business": "Hawksmoor",
+      "location": "15 Necco Street, Boston, MA",
+      "signalDate": "2026-09-04",
+      "description": "Current reporting confirms Hawksmoor's first Boston restaurant is scheduled to open September 8 in Fort Point with roughly 280 seats. The launch suggests recurring operating needs but does not confirm a vendor solicitation.",
+      "likelyNeeds": ["Commercial cleaning", "Linen service", "Pest control", "Waste service", "Food and beverage suppliers"],
+      "why": ["Specific September 8 opening date", "Large full-service restaurant footprint", "New Boston market entry"],
       "confidence": "High",
-      "sourceName": "Massachusetts Executive Office of Economic Development",
-      "sourceUrl": "https://www.mass.gov/news/governor-healey-awards-6-million-to-drive-business-expansion-create-1000-jobs-across-massachusetts"
+      "sourceName": "Hawksmoor / Boston.com",
+      "sourceUrl": "https://www.boston.com/food/restaurants/2026/08/26/hawksmoor-restaurant-opening-fort-point-seaport/"
     },
     {
       "id": "fjallraven-co-boston-2026",
@@ -258,16 +243,16 @@
       "sourceUrl": "https://www.bostonglobe.com/2026/09/04/lifestyle/lpm-restaurant-four-seasons-first-look/"
     },
     {
-      "id": "helfrich-lawrence-2026",
+      "id": "smc-devens-2026",
       "score": 91,
       "type": "Expansion",
-      "title": "Helfrich Bros. is planning a new 65,000-square-foot Lawrence manufacturing facility",
-      "business": "Helfrich Bros. Boiler Works, Inc.",
-      "location": "Lawrence, MA",
+      "title": "SMC is expanding its Devens medical-device manufacturing campus",
+      "business": "SMC Ltd.",
+      "location": "Devens, MA",
       "signalDate": "2026-08-12",
-      "description": "Massachusetts awarded Helfrich Bros. $1 million to support acquisition and construction of a new roughly 65,000-square-foot manufacturing facility in Lawrence. The project includes cranes, welding systems, a paint booth, testing infrastructure and other production equipment; no specific vendor solicitation is stated.",
-      "likelyNeeds": ["Industrial construction", "Cranes and material handling", "Welding equipment", "Paint-booth systems", "Electrical and testing infrastructure"],
-      "why": ["New 65,000-square-foot manufacturing project", "$1 million state-backed expansion award", "Multiple specified industrial systems and equipment needs"],
+      "description": "Massachusetts awarded SMC $1.25 million to renovate its existing 330,000-square-foot Devens facility and construct a new 100,000-square-foot building. The state-backed capital project includes HVAC, power and manufacturing-system work.",
+      "likelyNeeds": ["Industrial construction", "HVAC", "Electrical and power systems", "Facility maintenance", "Commercial cleaning"],
+      "why": ["100,000-square-foot new building", "Renovation of a 330,000-square-foot facility", "State-backed capital project"],
       "confidence": "High",
       "sourceName": "Massachusetts Executive Office of Economic Development",
       "sourceUrl": "https://www.mass.gov/news/governor-healey-awards-6-million-to-drive-business-expansion-create-1000-jobs-across-massachusetts"
@@ -288,6 +273,21 @@
       "sourceUrl": "https://www.westactonvillage.org/oktoberfest-visiting-vendors"
     },
     {
+      "id": "brooks-running-back-bay-2026",
+      "score": 90,
+      "type": "Opening",
+      "title": "Brooks Running is preparing its first Massachusetts standalone store in Boston's Back Bay",
+      "business": "Brooks Running",
+      "location": "408 Newbury Street, Boston, MA",
+      "signalDate": "2026-09-04",
+      "description": "Brooks Running and the Lyrik development have confirmed a new Brooks store at 408 Newbury Street for fall 2026, and Brooks has recently recruited specifically for the new Boston store. The opening creates plausible retail operating needs, but no local vendor solicitation is stated.",
+      "likelyNeeds": ["Retail fixtures and merchandising", "Commercial cleaning", "Security", "Waste service", "Local launch marketing"],
+      "why": ["First Massachusetts standalone Brooks store", "Fall 2026 opening window", "Recent new-store hiring confirms active launch preparations"],
+      "confidence": "High",
+      "sourceName": "Brooks Running / What Now Boston",
+      "sourceUrl": "https://whatnow.com/boston/retail/brooks-running-to-open-first-massachusetts-location-in-bostons-back-bay-this-fall/"
+    },
+    {
       "id": "slick-city-milford-2026",
       "score": 90,
       "type": "Opening",
@@ -303,64 +303,34 @@
       "sourceUrl": "https://www.nbcboston.com/boston-business-journal/dry-slide-park-coming-to-massachusetts-this-fall/3996095/"
     },
     {
-      "id": "petulas-south-boston-expansion-2026",
+      "id": "umami-taqueria-allston-2026",
       "score": 89,
       "type": "Expansion",
-      "title": "Petula's is expanding into the neighboring South Boston building",
-      "business": "Petula's",
-      "location": "81 L Street, South Boston, MA",
-      "signalDate": "2026-09-03",
-      "description": "Petula's owner confirmed the restaurant is expanding into the neighboring building, adding seating, a second bar and more room for larger events. Construction is still in its early stages and no opening timeline or vendor solicitation has been announced.",
-      "likelyNeeds": ["Restaurant buildout", "Bar equipment and fixtures", "Furniture", "Event-space support", "Commercial cleaning"],
-      "why": ["Expansion confirmed directly by the owner", "Construction is in early stages", "Second bar and larger event capacity increase the operating footprint"],
+      "title": "Umami Taqueria is preparing a second location inside Allston's Novo Marketplace",
+      "business": "Umami Taqueria",
+      "location": "122 Brighton Avenue, Allston, MA",
+      "signalDate": "2026-09-04",
+      "description": "Umami Taqueria is preparing a second location at Novo Marketplace in Allston. Co-owner Quang Nguyen said the restaurant is expected to open in about a month, with timing dependent on equipment arrival and installation. No vendor solicitation is stated.",
+      "likelyNeeds": ["Restaurant equipment installation", "Food and beverage suppliers", "Packaging", "Commercial cleaning", "Waste service"],
+      "why": ["Second-location expansion is confirmed", "Opening is expected in roughly one month", "Equipment arrival and installation are still active pre-opening dependencies"],
       "confidence": "High",
       "sourceName": "What Now Boston",
-      "sourceUrl": "https://whatnow.com/boston/restaurants/petulas-expanding-into-neighboring-building-in-south-boston/"
+      "sourceUrl": "https://whatnow.com/boston/restaurants/umami-taqueria-bringing-mexican-asian-fusion-fare-to-allstons-novo-marketplace/"
     },
     {
-      "id": "celine-boston-seaport-2026",
-      "score": 89,
-      "type": "Opening",
-      "title": "Celine is preparing a French-Canadian tavern in Boston's Seaport for September",
-      "business": "Celine",
-      "location": "324 A Street, Boston, MA",
-      "signalDate": "2026-09-01",
-      "description": "Boston.com reports that Celine, a French-Canadian-inspired tavern, is targeting a mid-to-late September opening at 324 A Street in the Seaport. The pre-opening window creates plausible operating-service needs, but no vendor request is stated.",
-      "likelyNeeds": ["Food and beverage suppliers", "Linen service", "Commercial cleaning", "Pest control", "Waste service"],
-      "why": ["Mid-to-late September opening target", "New full-service hospitality operation", "Active pre-opening window"],
-      "confidence": "High",
-      "sourceName": "Boston.com",
-      "sourceUrl": "https://www.boston.com/food/restaurants/2026/09/01/5-restaurants-we-cant-wait-to-try-in-september-2026/"
-    },
-    {
-      "id": "woolly-brew-belmont-2026",
-      "score": 89,
-      "type": "Opening",
-      "title": "The Woolly Brew is preparing a café and yarn shop in Belmont",
-      "business": "The Woolly Brew Corp.",
-      "location": "55 Brighton Street, Belmont, MA",
-      "signalDate": "2026-08-31",
-      "description": "Hamilton Company announced a roughly 1,347-square-foot lease for The Woolly Brew at 55 Brighton Street, with the café and yarn shop expected to open in September. No vendor solicitation is stated.",
-      "likelyNeeds": ["Coffee and food suppliers", "Retail fixtures", "Commercial cleaning", "Waste service", "Local marketing"],
-      "why": ["September opening target", "New 1,347-square-foot storefront", "Combined café and specialty-retail operation"],
-      "confidence": "High",
-      "sourceName": "Boston Real Estate Times",
-      "sourceUrl": "https://bostonrealestatetimes.com/the-woolly-brew-to-open-cafe-and-yarn-shop-in-belmont/"
-    },
-    {
-      "id": "local-love-pittsfield-vendors-2026",
-      "score": 87,
-      "type": "Vendor Opportunity",
-      "title": "Downtown Pittsfield is accepting artisan vendors for the September 27 Local Love Arts Festival",
-      "business": "Downtown Pittsfield, Inc.",
-      "location": "The Common, 100 First Street, Pittsfield, MA",
+      "id": "market-al-fresca-north-andover-2026",
+      "score": 88,
+      "type": "Expansion",
+      "title": "The Market Al Fresca has started construction on its second location in North Andover",
+      "business": "The Market Al Fresca",
+      "location": "554 Turnpike Street, North Andover, MA",
       "signalDate": "2026-09-04",
-      "description": "Downtown Pittsfield, Inc. says it is accepting applications from Berkshire County-based artisan vendors for the September 27 Local Love Arts Festival. Eligible sellers include visual artists, craftspeople, textile and jewelry makers, and makers of packaged foods and sweets. This is an explicit vendor opportunity subject to organizer approval.",
-      "likelyNeeds": ["Visual artists", "Craft vendors", "Textile and jewelry makers", "Packaged food vendors", "Handmade-product vendors"],
-      "why": ["Organizer is actively accepting vendor applications", "September 27 event date", "Defined vendor categories and application channel"],
+      "description": "The Market Al Fresca announced a second location at The Crossroads Retail Center in North Andover and says construction is already underway. An opening date has not yet been announced, so this is an active buildout signal rather than a confirmed purchasing opportunity.",
+      "likelyNeeds": ["Retail and food-market buildout", "Refrigeration and food-service equipment", "Commercial cleaning", "Waste service", "Signage and local marketing"],
+      "why": ["Construction is already underway", "Second-location expansion is confirmed", "Specialty food-market format implies a meaningful physical buildout"],
       "confidence": "High",
-      "sourceName": "Downtown Pittsfield, Inc.",
-      "sourceUrl": "https://downtownpittsfield.com/event/downtown-pittsfield-inc-announces-local-love-arts-festival/"
+      "sourceName": "What Now Boston",
+      "sourceUrl": "https://whatnow.com/boston/retail/tewksburys-the-market-al-fresca-expanding-to-north-andover/"
     }
   ]
 }
