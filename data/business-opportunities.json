@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-09-05T12:41:43Z",
+  "updatedAt": "2026-09-06T12:53:20Z",
   "region": "Massachusetts",
   "items": [
+    {
+      "id": "cti-security-services-lowell-2026",
+      "score": 97,
+      "type": "Vendor Opportunity",
+      "title": "Community Teamwork is actively bidding 24/7 security services for Lowell shelter sites",
+      "business": "Community Teamwork, Inc.",
+      "location": "Lowell, MA",
+      "signalDate": "2026-09-06",
+      "description": "Community Teamwork is publicly requesting bids from qualified security-service vendors to provide 24/7 security support for up to two shelter sites in Lowell. Bids are due September 11 at 12:00 p.m. EST. This is an explicit open solicitation, subject to the organization's bid documents and requirements.",
+      "likelyNeeds": ["24/7 security staffing", "Shelter-site security", "Trained and certified personnel", "Incident response", "Security reporting"],
+      "why": ["Explicit public invitation for bids", "September 11 submission deadline", "Potential coverage across up to two Lowell shelter sites"],
+      "confidence": "High",
+      "sourceName": "Community Teamwork, Inc.",
+      "sourceUrl": "https://www.commteam.org/our-organization/open-bid-solicitations-procurement/"
+    },
     {
       "id": "gillette-south-boston-hq-2026",
       "score": 96,
@@ -16,6 +31,36 @@
       "confidence": "High",
       "sourceName": "New England Real Estate Journal",
       "sourceUrl": "https://nerej.com/breakthrough-properties-completes-sale-to-pg-gillette"
+    },
+    {
+      "id": "cti-laundry-linen-lowell-2026",
+      "score": 96,
+      "type": "Vendor Opportunity",
+      "title": "Community Teamwork is bidding laundry and linen cleaning services for a Lowell emergency shelter",
+      "business": "Community Teamwork, Inc.",
+      "location": "Lowell, MA",
+      "signalDate": "2026-09-06",
+      "description": "Community Teamwork is publicly requesting bids for pickup, delivery and laundering of bedding, blankets, towels and kitchen linens supporting up to 60 individuals at an emergency shelter site. Bids are due September 11 at 12:00 p.m. EST. This is an explicit open solicitation.",
+      "likelyNeeds": ["Commercial laundry service", "Pickup and delivery", "Bedding laundering", "Towel and kitchen-linen laundering", "Recurring shelter support"],
+      "why": ["Explicit public invitation for bids", "September 11 submission deadline", "Defined recurring service scope for up to 60 shelter guests"],
+      "confidence": "High",
+      "sourceName": "Community Teamwork, Inc.",
+      "sourceUrl": "https://www.commteam.org/our-organization/open-bid-solicitations-procurement/"
+    },
+    {
+      "id": "cti-heartwap-qualified-vendors-2026",
+      "score": 96,
+      "type": "Vendor Opportunity",
+      "title": "Community Teamwork is qualifying HEARTWAP heating, plumbing and asbestos contractors",
+      "business": "Community Teamwork, Inc.",
+      "location": "Lowell / Greater Lowell, MA",
+      "signalDate": "2026-08-21",
+      "description": "Community Teamwork's RFP 26-28 seeks qualified contractors for heating-system repair and replacement, service calls, retrofits, related plumbing and asbestos-abatement services. The organization intends to establish an authorized-contractor list from which individual jobs may be awarded based on price quotes. Responses are due September 14 at 3:00 p.m. EST.",
+      "likelyNeeds": ["Heating-system repair", "Heating-system replacement", "Plumbing", "Energy retrofits", "Asbestos abatement"],
+      "why": ["Explicit RFP for qualified vendors", "September 14 submission deadline", "Selected contractors may receive individual jobs from an authorized-vendor pool"],
+      "confidence": "High",
+      "sourceName": "Community Teamwork, Inc.",
+      "sourceUrl": "https://www.commteam.org/our-organization/open-bid-solicitations-procurement/"
     },
     {
       "id": "autonodyne-boston-demo-center-2026",
@@ -46,6 +91,21 @@
       "confidence": "High",
       "sourceName": "Reframe Systems / Business Wire",
       "sourceUrl": "https://www.businesswire.com/news/home/20260831532459/en/Reframe-Systems-Raises-%2440M-to-Industrialize-Homebuilding-and-Expand-Microfactory-Network"
+    },
+    {
+      "id": "miss-a-massachusetts-three-stores-2026",
+      "score": 95,
+      "type": "Expansion",
+      "title": "Miss A is entering Massachusetts with three stores, with two projects reported out to bid",
+      "business": "Miss A / Shop Miss A",
+      "location": "Braintree, Peabody and Auburn, MA",
+      "signalDate": "2026-09-04",
+      "description": "Miss A's official store locator lists South Shore Mall in Braintree, North Shore Mall in Peabody and Auburn Mall as coming soon. The Connecticut Scoop additionally reports that the North Shore and South Shore locations are currently out to bid to area contractors for pricing. Public bid documents were not independently located, so the contractor-bid detail is treated as a reported signal rather than a confirmed open solicitation.",
+      "likelyNeeds": ["Retail tenant buildout", "Electrical and lighting", "Store fixtures", "Signage", "Post-construction cleaning"],
+      "why": ["Three-store Massachusetts market entry is confirmed by the retailer", "North Shore and South Shore projects are reported out to bid", "Multi-site rollout creates repeatable fit-out opportunities"],
+      "confidence": "High",
+      "sourceName": "Shop Miss A / The Connecticut Scoop",
+      "sourceUrl": "https://www.theconnecticutscoop.com/all-mass-posts/multi-town-scoop-miss-a-planning-first-3-massachusetts-locations"
     },
     {
       "id": "cps-attleboro-2026",
@@ -213,21 +273,6 @@
       "sourceUrl": "https://www.boston.com/food/restaurants/2026/08/26/hawksmoor-restaurant-opening-fort-point-seaport/"
     },
     {
-      "id": "fjallraven-co-boston-2026",
-      "score": 91,
-      "type": "Opening",
-      "title": "Fjällräven & Co. is making its global retail-concept debut on Newbury Street",
-      "business": "Fenix Outdoor / Fjällräven & Co.",
-      "location": "304 Newbury Street, Boston, MA",
-      "signalDate": "2026-09-02",
-      "description": "Fenix Outdoor announced the opening of the first Fjällräven & Co. store at 304 Newbury Street in Boston, with grand-opening events scheduled September 11-13. The company also recently relocated its separate Fjällräven Brand Store to 165 Newbury Street. No local vendor solicitation is stated.",
-      "likelyNeeds": ["Commercial cleaning", "Retail operating supplies", "Security", "Event support", "Local marketing"],
-      "why": ["First-ever Fjällräven & Co. retail concept", "Grand-opening events scheduled September 11-13", "Two recently opened or relocated Newbury Street retail locations"],
-      "confidence": "High",
-      "sourceName": "Fenix Outdoor / GlobeNewswire",
-      "sourceUrl": "https://www.globenewswire.com/news-release/2026/09/02/3355316/0/en/fj%C3%A4llr%C3%A4ven-co-makes-global-debut-in-boston.html"
-    },
-    {
       "id": "lpm-boston-2026",
       "score": 91,
       "type": "Opening",
@@ -273,6 +318,21 @@
       "sourceUrl": "https://www.westactonvillage.org/oktoberfest-visiting-vendors"
     },
     {
+      "id": "marketplace-shrewsbury-tenants-2026",
+      "score": 91,
+      "type": "Development",
+      "title": "Marketplace Shrewsbury is adding four tenants as its Route 9 redevelopment continues",
+      "business": "Marketplace Shrewsbury / Spagtacular LLC",
+      "location": "Route 9 and Maple Avenue, Shrewsbury, MA",
+      "signalDate": "2026-08-31",
+      "description": "Marketplace Shrewsbury's developer confirmed Hungry Pot Korean BBQ & Hot Pot, Sora Seafood and Sushi Buffet, Tandoori Pizza and a GEICO Insurance office as incoming tenants. Hungry Pot is expected within the next few months after extensive renovations, and current leasing listings identify several of the tenants as opening soon. No public subcontract solicitation is stated.",
+      "likelyNeeds": ["Restaurant tenant fit-outs", "Commercial kitchen equipment", "Electrical and plumbing", "Signage", "Post-construction cleaning"],
+      "why": ["Four incoming tenants confirmed by the developer", "Hungry Pot requires extensive renovations", "Redevelopment is still active with multiple opening-soon spaces"],
+      "confidence": "High",
+      "sourceName": "Patch / Marketplace Shrewsbury leasing listing",
+      "sourceUrl": "https://patch.com/massachusetts/shrewsbury/hot-pot-sushi-spots-among-4-new-tenants-coming-marketplace-shrewsbury"
+    },
+    {
       "id": "brooks-running-back-bay-2026",
       "score": 90,
       "type": "Opening",
@@ -303,6 +363,21 @@
       "sourceUrl": "https://www.nbcboston.com/boston-business-journal/dry-slide-park-coming-to-massachusetts-this-fall/3996095/"
     },
     {
+      "id": "puritan-tavern-groton-2026",
+      "score": 90,
+      "type": "Opening",
+      "title": "Puritan Tavern is opening in Groton on September 15 with restaurant and event space",
+      "business": "Puritan Tavern / Puritan & Company",
+      "location": "20 Station Avenue, Groton, MA",
+      "signalDate": "2026-08-28",
+      "description": "Chef Will Gilson's Puritan Tavern is scheduled to open September 15 in the former Station House Restaurant. The property includes a second-floor event space for up to 60 people, an 80-seat seasonal patio and a full-service tavern operation. The opening creates plausible recurring operating needs but no vendor solicitation is stated.",
+      "likelyNeeds": ["Food and beverage suppliers", "Linen service", "Commercial cleaning", "Waste service", "Event support"],
+      "why": ["Specific September 15 opening date", "Full-service restaurant plus event space", "Large seasonal patio adds ongoing operating-service needs"],
+      "confidence": "High",
+      "sourceName": "Patch / Puritan Tavern announcement",
+      "sourceUrl": "https://patch.com/massachusetts/across-ma/new-england-inspired-eatery-open-groton"
+    },
+    {
       "id": "umami-taqueria-allston-2026",
       "score": 89,
       "type": "Expansion",
@@ -331,6 +406,21 @@
       "confidence": "High",
       "sourceName": "What Now Boston",
       "sourceUrl": "https://whatnow.com/boston/retail/tewksburys-the-market-al-fresca-expanding-to-north-andover/"
+    },
+    {
+      "id": "field-day-fall-sharon-vendors-2026",
+      "score": 88,
+      "type": "Vendor Opportunity",
+      "title": "Field Day Fall in Sharon is accepting maker, artist, designer and vintage-vendor applications",
+      "business": "New England Open Markets / Field Day Fall",
+      "location": "Ward's Berry Farm, 614 South Main Street, Sharon, MA",
+      "signalDate": "2026-09-06",
+      "description": "New England Open Markets is accepting applications for Field Day Fall on September 27 at Ward's Berry Farm in Sharon. The official application page lists makers, artists, designers, vintage and antique dealers, with standard 10-by-10 booths priced at $125 and no application fee. This is an explicit event-vendor opportunity, not a procurement contract.",
+      "likelyNeeds": ["Makers and artisans", "Artists and designers", "Vintage and antique dealers", "Specialty retail vendors", "Market exhibitors"],
+      "why": ["Official vendor application is active", "September 27 event provides a defined selling window", "No fee to apply and booth terms are publicly listed"],
+      "confidence": "High",
+      "sourceName": "New England Open Markets",
+      "sourceUrl": "https://www.newenglandopenmarkets.com/field-day-fall-application"
     }
   ]
 }
