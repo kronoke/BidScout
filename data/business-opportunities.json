@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T12:53:20Z",
+  "updatedAt": "2026-09-07T12:20:36Z",
   "region": "Massachusetts",
   "items": [
     {
@@ -63,6 +63,21 @@
       "sourceUrl": "https://www.commteam.org/our-organization/open-bid-solicitations-procurement/"
     },
     {
+      "id": "amazon-prime-air-westborough-2026",
+      "score": 96,
+      "type": "Digital Project",
+      "title": "Amazon is seeking site-plan approval to launch Prime Air drone delivery from its Westborough facility",
+      "business": "Amazon / Prime Air",
+      "location": "64 Otis Street, Westborough, MA",
+      "signalDate": "2026-08-14",
+      "description": "Westborough's Planning Board has scheduled a September 15 public hearing on application 26-02275, which requests a modification to an existing site-plan approval so Amazon can launch Prime Air drone delivery from its SMA1 facility at 64 Otis Street. This is an active permitting and digital-logistics project signal, not a vendor solicitation.",
+      "likelyNeeds": ["Drone-delivery launch infrastructure", "Site and electrical upgrades", "Networking and IT", "Safety and security systems", "Permitting and compliance support"],
+      "why": ["Specific public site-plan modification is under review", "Project would launch Amazon Prime Air operations in Westborough", "September 15 Planning Board hearing creates a concrete near-term milestone"],
+      "confidence": "High",
+      "sourceName": "Town of Westborough Planning Board",
+      "sourceUrl": "https://edc.westboroughma.gov/AgendaCenter/Planning-Board-22/"
+    },
+    {
       "id": "autonodyne-boston-demo-center-2026",
       "score": 95,
       "type": "Expansion",
@@ -108,6 +123,21 @@
       "sourceUrl": "https://www.theconnecticutscoop.com/all-mass-posts/multi-town-scoop-miss-a-planning-first-3-massachusetts-locations"
     },
     {
+      "id": "healthpeak-alewife-pud-cambridge-2026",
+      "score": 95,
+      "type": "Development",
+      "title": "Healthpeak's Alewife Quadrangle PUD remains under review ahead of a September 15 Cambridge hearing",
+      "business": "Healthpeak OP LLC",
+      "location": "Alewife Quadrangle, Cambridge, MA",
+      "signalDate": "2026-08-05",
+      "description": "Cambridge Planning Board case PB-410 for Healthpeak's Alewife Quadrangle PUD remains under review with another hearing scheduled for September 15. City materials describe a large multi-phase mixed-use plan with roughly 2,300 residential units plus office/lab, retail and neighborhood uses. This is an active development-review signal, not an announced vendor procurement.",
+      "likelyNeeds": ["Large-scale commercial construction", "Mechanical and electrical systems", "Laboratory and office fit-outs", "Retail tenant build-outs", "Landscape and public-realm infrastructure"],
+      "why": ["Planning Board case remains actively under review", "Approximately 2,300 housing units plus substantial office/lab and retail scope", "September 15 hearing provides a current project milestone"],
+      "confidence": "High",
+      "sourceName": "City of Cambridge Planning Board",
+      "sourceUrl": "https://www.cambridgema.gov/specialpermits/pb410"
+    },
+    {
       "id": "cps-attleboro-2026",
       "score": 94,
       "type": "Relocation",
@@ -151,6 +181,21 @@
       "confidence": "High",
       "sourceName": "Massachusetts Executive Office of Housing and Livable Communities",
       "sourceUrl": "https://www.mass.gov/news/governor-healey-announces-153-million-to-convert-commercial-properties-into-856-new-homes"
+    },
+    {
+      "id": "costco-avon-fuel-facility-2026",
+      "score": 94,
+      "type": "Permit",
+      "title": "Costco is seeking a special permit for a new Avon fuel facility",
+      "business": "Costco Wholesale Corporation",
+      "location": "Ikea Way and Stockwell Drive, Avon, MA",
+      "signalDate": "2026-08-24",
+      "description": "Avon's Zoning Board of Appeals is scheduled to hear Costco Wholesale Corporation's Case 26-2 on September 8 for a special permit to install a fuel facility at Ikea Way and Stockwell Drive. This is a live commercial permitting signal; the public notice does not state that vendor or subcontract packages are open.",
+      "likelyNeeds": ["Site and civil construction", "Fuel-system equipment", "Electrical and controls", "Paving and striping", "Safety and environmental compliance"],
+      "why": ["Specific commercial special-permit application", "Costco is the named project applicant", "September 8 hearing provides an immediate permitting milestone"],
+      "confidence": "High",
+      "sourceName": "Town of Avon Zoning Board of Appeals / Public Legal Notice",
+      "sourceUrl": "https://www.noticeregistry.com/massachusetts/notice/public-hearing-avon-904157"
     },
     {
       "id": "7th-street-burger-saugus-cambridge-2026",
@@ -258,19 +303,19 @@
       "sourceUrl": "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/forman-mills-opens-its-first-springfield-location-in-the-city-of-first-1208899"
     },
     {
-      "id": "hawksmoor-boston-2026",
+      "id": "green-castle-cannabis-royalston-2026",
       "score": 92,
-      "type": "Opening",
-      "title": "Hawksmoor is opening a 280-seat Boston restaurant on September 8",
-      "business": "Hawksmoor",
-      "location": "15 Necco Street, Boston, MA",
-      "signalDate": "2026-09-04",
-      "description": "Current reporting confirms Hawksmoor's first Boston restaurant is scheduled to open September 8 in Fort Point with roughly 280 seats. The launch suggests recurring operating needs but does not confirm a vendor solicitation.",
-      "likelyNeeds": ["Commercial cleaning", "Linen service", "Pest control", "Waste service", "Food and beverage suppliers"],
-      "why": ["Specific September 8 opening date", "Large full-service restaurant footprint", "New Boston market entry"],
+      "type": "Permit",
+      "title": "Green Castle Cannabis is seeking a permit for a roughly 10,000-square-foot Royalston cultivation facility",
+      "business": "Green Castle Cannabis",
+      "location": "160 South Royalston Road, Royalston, MA",
+      "signalDate": "2026-08-19",
+      "description": "Royalston's Planning Board will hold a September 10 hearing on Green Castle Cannabis's special-permit application for a commercial cannabis cultivation facility encompassing approximately 10,000 square feet of canopy/building space. This is an active facility-permitting signal, not an announced vendor solicitation.",
+      "likelyNeeds": ["Controlled-environment HVAC", "Electrical and power systems", "Security and access control", "Irrigation and water systems", "Facility buildout"],
+      "why": ["Official special-permit application is active", "Approximately 10,000-square-foot commercial cultivation scope", "September 10 public hearing is a near-term project milestone"],
       "confidence": "High",
-      "sourceName": "Hawksmoor / Boston.com",
-      "sourceUrl": "https://www.boston.com/food/restaurants/2026/08/26/hawksmoor-restaurant-opening-fort-point-seaport/"
+      "sourceName": "Town of Royalston Planning Board",
+      "sourceUrl": "https://www.royalston-ma.gov/m/newsflash/Home/Detail/16"
     },
     {
       "id": "lpm-boston-2026",
@@ -331,6 +376,36 @@
       "confidence": "High",
       "sourceName": "Patch / Marketplace Shrewsbury leasing listing",
       "sourceUrl": "https://patch.com/massachusetts/shrewsbury/hot-pot-sushi-spots-among-4-new-tenants-coming-marketplace-shrewsbury"
+    },
+    {
+      "id": "macdc-community-development-summit-vendors-2026",
+      "score": 90,
+      "type": "Vendor Opportunity",
+      "title": "MACDC is recruiting vendors and partners for its September 30 statewide Community Development Summit",
+      "business": "Massachusetts Association of Community Development Corporations (MACDC)",
+      "location": "DCU Center, Worcester, MA",
+      "signalDate": "2026-09-07",
+      "description": "MACDC is currently inviting vendors and partners to reserve tables at its September 30 Community Development Summit in Worcester, which it says will bring together more than 350 community-development professionals. The organizer specifically lists lenders, legal services, architecture and construction firms, technology providers, insurance, HR/payroll, grant-writing, energy-efficiency, printing and marketing providers among the desired vendor categories. This is an explicit promotional vendor opportunity, not a procurement contract.",
+      "likelyNeeds": ["Technology and software vendors", "Architecture and construction firms", "Banking and lending services", "Insurance and professional services", "Marketing, printing and consulting providers"],
+      "why": ["Organizer is explicitly recruiting vendors and partners", "September 30 event targets more than 350 Massachusetts community-development professionals", "Published vendor categories align with a broad range of B2B service providers"],
+      "confidence": "High",
+      "sourceName": "Massachusetts Association of Community Development Corporations",
+      "sourceUrl": "https://www.macdc.org/node/12689"
+    },
+    {
+      "id": "field-day-fall-sharon-vendors-2026",
+      "score": 90,
+      "type": "Vendor Opportunity",
+      "title": "Field Day Fall in Sharon is accepting vendor applications through September 10",
+      "business": "New England Open Markets / Field Day Fall",
+      "location": "Ward's Berry Farm, 614 South Main Street, Sharon, MA",
+      "signalDate": "2026-09-07",
+      "description": "New England Open Markets is accepting maker, artist, designer, vintage and antique vendor applications for Field Day Fall on September 27 at Ward's Berry Farm in Sharon. The current organizer page lists a September 10 application deadline, with rolling review until categories fill. This is an explicit event-vendor opportunity, not a procurement contract.",
+      "likelyNeeds": ["Makers and artisans", "Artists and designers", "Vintage and antique dealers", "Specialty retail vendors", "Market exhibitors"],
+      "why": ["Official vendor application is active", "September 10 application deadline is now confirmed", "September 27 event provides a defined selling window"],
+      "confidence": "High",
+      "sourceName": "New England Open Markets",
+      "sourceUrl": "https://www.newenglandopenmarkets.com/field-day-fall-application"
     },
     {
       "id": "brooks-running-back-bay-2026",
@@ -406,21 +481,6 @@
       "confidence": "High",
       "sourceName": "What Now Boston",
       "sourceUrl": "https://whatnow.com/boston/retail/tewksburys-the-market-al-fresca-expanding-to-north-andover/"
-    },
-    {
-      "id": "field-day-fall-sharon-vendors-2026",
-      "score": 88,
-      "type": "Vendor Opportunity",
-      "title": "Field Day Fall in Sharon is accepting maker, artist, designer and vintage-vendor applications",
-      "business": "New England Open Markets / Field Day Fall",
-      "location": "Ward's Berry Farm, 614 South Main Street, Sharon, MA",
-      "signalDate": "2026-09-06",
-      "description": "New England Open Markets is accepting applications for Field Day Fall on September 27 at Ward's Berry Farm in Sharon. The official application page lists makers, artists, designers, vintage and antique dealers, with standard 10-by-10 booths priced at $125 and no application fee. This is an explicit event-vendor opportunity, not a procurement contract.",
-      "likelyNeeds": ["Makers and artisans", "Artists and designers", "Vintage and antique dealers", "Specialty retail vendors", "Market exhibitors"],
-      "why": ["Official vendor application is active", "September 27 event provides a defined selling window", "No fee to apply and booth terms are publicly listed"],
-      "confidence": "High",
-      "sourceName": "New England Open Markets",
-      "sourceUrl": "https://www.newenglandopenmarkets.com/field-day-fall-application"
     }
   ]
 }
